@@ -30,6 +30,20 @@ add_action( 'wp_head', function () {
 		),
 		'hasMap'            => 'https://www.google.com/maps?q=Mountain+Mall,+Thika+Road,+Nairobi',
 		'areaServed'        => array( 'Nairobi', 'Kenya' ),
+		'openingHoursSpecification' => array(
+			array(
+				'@type'     => 'OpeningHoursSpecification',
+				'dayOfWeek' => array( 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday' ),
+				'opens'     => '08:30',
+				'closes'    => '18:00',
+			),
+			array(
+				'@type'     => 'OpeningHoursSpecification',
+				'dayOfWeek' => 'Saturday',
+				'opens'     => '09:00',
+				'closes'    => '14:00',
+			),
+		),
 	);
 	$logo = get_site_icon_url( 512 );
 	if ( $logo ) {
