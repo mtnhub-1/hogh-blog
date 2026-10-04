@@ -49,6 +49,25 @@ Image Alt Text:
 - Bold text: none inside paragraphs. Bold labels in bullet lists are fine.
 - Image: at least one inside the post body, with the keyword in its alt text.
 - Table of Contents: Rank Math only detects this from a TOC plugin or block. Use a plugin such as Easy Table of Contents or LuckyWP Table of Contents, set to auto-insert on posts.
+- Every word must earn its place: reach the length through genuinely useful coverage (follow-up questions, examples, comparisons), never padding or repetition.
+
+
+## RULES FOR AEO (AI Overviews, ChatGPT, Perplexity and other answer engines)
+
+Answer engines quote short, self-contained passages. Write so that any section can be lifted out and still make sense.
+
+- Answer first: the first paragraph of the intro directly answers the question behind the keyword in 40-60 words, with the keyword in the first sentence. Explain the reader's problem and what the post covers in the second paragraph.
+- Question headings: where natural, phrase H2s and H3s as the questions people actually search (What / How / When / Which / Is / Can), using wording seen in Google's "People also ask" and related searches during research.
+- Answer under every heading: the first 1-2 sentences under each H2/H3 answer that heading directly (under 40 words) before going into detail.
+- Self-contained passages: name the subject instead of starting with "it", "this" or "they" when a passage opens a section, so it still makes sense when quoted alone.
+- Specific facts: give concrete, verified details such as elevations (m), distances (km), durations (hours), best months, difficulty, start points, counties and gear specs. Avoid vague claims like "fairly long" or "quite cold".
+- Quick Facts box: 5-7 self-contained bullet facts, each with a label (e.g. <strong>Elevation:</strong> 3,700 m).
+- Structured content: include at least one HTML table (comparison, kit list, route stages or month-by-month conditions) or numbered step list where it fits the topic. Use this table style:
+  <table style="width:100%; border-collapse:collapse; margin:20px 0;"><thead><tr style="background-color:#0B789D; color:#ffffff;"><th style="padding:10px; text-align:left;">[Header]</th><th style="padding:10px; text-align:left;">[Header]</th></tr></thead><tbody><tr style="border-bottom:1px solid #dddddd;"><td style="padding:10px;">[Cell]</td><td style="padding:10px;">[Cell]</td></tr></tbody></table>
+- FAQ answers: 40-80 words each, starting with a direct answer and repeating the subject (e.g. "Mt Longonot takes 4-5 hours..." rather than "It takes..."). Use real search questions.
+- Final Thoughts: open with a 2-3 sentence summary of the key answer, then the nudge to act.
+- Trust signals: write as a Kenyan hiking gear and guided-hike business that knows these trails, but never invent personal stories, customer quotes, statistics or experiences. Cite authority sources for safety, park and weather facts.
+- Avoid putting the year in titles or slugs so posts don't go stale; mention seasons and conditions instead.
 
 
 ## THE BOX TYPES (exact HTML)
