@@ -15,7 +15,7 @@ Pillar: **best day hikes near Nairobi** — https://hikingoutdoorhub.com/best-da
 |---|---|---|---|
 | done | best day hikes near Nairobi (PILLAR) | Hiking Trails Guide | https://hikingoutdoorhub.com/best-day-hikes-near-nairobi-for-beginners/ |
 | done | mt longonot hike | Hiking Trails Guide | https://hikingoutdoorhub.com/mt-longonot-hike/ |
-| todo | elephant hill hike | Hiking Trails Guide | |
+| done | elephant hill hike | Hiking Trails Guide | https://hikingoutdoorhub.com/elephant-hill-hike/ |
 | todo | ngong hills hike | Hiking Trails Guide | |
 | todo | ol donyo sabuk hike | Hiking Trails Guide | |
 | todo | table mountain hike kenya | Hiking Trails Guide | |
