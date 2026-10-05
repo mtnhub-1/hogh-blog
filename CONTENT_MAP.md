@@ -77,11 +77,11 @@ Pillar: **rainy season hiking gear** — https://hikingoutdoorhub.com/rainy-seas
 | todo | how to waterproof hiking gear | Hiking Tips | |
 
 ## 5. Beginner Hiking in Kenya
-Pillar: **hiking for beginners in kenya** (todo — write this first in this cluster)
+Pillar: **hiking for beginners in kenya** — https://hikingoutdoorhub.com/hiking-for-beginners-in-kenya/
 
 | Status | Focus keyword | Category | URL |
 |---|---|---|---|
-| todo | hiking for beginners in kenya (PILLAR) | Hiking Tips | |
+| done | hiking for beginners in kenya (PILLAR) | Hiking Tips | https://hikingoutdoorhub.com/hiking-for-beginners-in-kenya/ |
 | todo | what to wear hiking in kenya | Hiking Tips | |
 | todo | first hike checklist | Hiking Tips | |
 | todo | how to train for hiking | Hiking Tips | |
