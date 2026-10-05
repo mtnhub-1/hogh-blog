@@ -18,22 +18,22 @@ Purpose: rank the Mountain Mall shop for "where to buy ___ in Nairobi" searches.
 | done | hiking gear shop in Nairobi (PILLAR, shop page) | — | https://hikingoutdoorhub.com/hiking-gear-shop-nairobi/ |
 | done | best hiking gear shop Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/best-hiking-gear-shop-nairobi/ |
 | todo | where to buy hiking boots in Nairobi | Hiking Gear Guides | |
-| todo | second hand hiking boots Nairobi | Hiking Gear Guides | |
 | todo | rain jackets for hiking in Nairobi | Hiking Gear Guides | |
 | todo | camping gear Nairobi | Hiking Gear Guides | |
-| todo | where to buy sleeping bags in Nairobi | Hiking Gear Guides | |
 | todo | hiking backpacks Nairobi | Hiking Gear Guides | |
-| todo | where to buy camping gas in Nairobi | Hiking Gear Guides | |
-| todo | where to buy Mt Kenya gear in Nairobi | Hiking Gear Guides | |
 | todo | thrifted outdoor gear Nairobi | Hiking Gear Guides | |
-| todo | women's hiking shoes Nairobi | Hiking Gear Guides | |
+| todo | where to buy Mt Kenya gear in Nairobi | Hiking Gear Guides | |
 | todo | thermal wear Nairobi | Hiking Gear Guides | |
+| todo | where to buy sleeping bags in Nairobi | Hiking Gear Guides | |
+| todo | women's hiking shoes Nairobi | Hiking Gear Guides | |
 | todo | hiking socks Nairobi | Hiking Gear Guides | |
-| todo | trekking poles Nairobi | Hiking Gear Guides | |
-| todo | headlamps Nairobi | Hiking Gear Guides | |
+| todo | where to buy camping gas in Nairobi | Hiking Gear Guides | |
 | todo | hiking gear for beginners Nairobi budget | Hiking Gear Guides | |
+| todo | trekking poles Nairobi | Hiking Gear Guides | |
 | todo | outdoor gear shop Thika Road | Hiking Gear Guides | |
+| todo | headlamps Nairobi | Hiking Gear Guides | |
 | todo | hiking clubs in Nairobi | Hiking Tips | |
+| todo | second hand hiking boots Nairobi | Hiking Gear Guides | |
 | todo | hikes near Thika Road and Kasarani | Hiking Trails Guide | |
 
 ---
