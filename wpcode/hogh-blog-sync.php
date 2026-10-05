@@ -159,6 +159,14 @@ if ( ! function_exists( 'hogh_blog_sync_run' ) ) {
 				require_once ABSPATH . 'wp-admin/includes/file.php';
 				require_once ABSPATH . 'wp-admin/includes/image.php';
 				$alt = sanitize_text_field( $p['featured_image_alt'] ?? $p['title'] );
+				// Reuse the owner's own photo if it is already in the Media Library.
+				$existing = attachment_url_to_postid( $p['featured_image'] );
+				if ( $existing ) {
+					set_post_thumbnail( $id, $existing );
+					$done[] = $name;
+					$log[]  = $name . ': imported as post #' . $id . ' (' . get_post_status( $id ) . '), using media library photo #' . $existing . '.';
+					continue;
+				}
 				// Download manually so image URLs without a file extension (e.g. Unsplash) still work.
 				$tmp = download_url( esc_url_raw( $p['featured_image'] ), 30 );
 				if ( is_wp_error( $tmp ) ) {
