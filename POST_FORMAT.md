@@ -19,3 +19,11 @@
 ```
 
 `status: "draft"` makes the post land as a draft for review. `publish_at` in the future schedules it.
+
+## Refresh an existing post
+
+Add `"update_slug": "<existing-post-slug>"` to rewrite that post in place instead of creating a new one.
+The URL (slug), publish date and author stay the same. Title, content, excerpt, category, tags,
+Rank Math fields and (optionally) the featured image are replaced. `slug`, `status` and `publish_at`
+are ignored in refresh mode. WordPress keeps the old version under Revisions.
+Filename: posts/YYYY-MM-DD-3-refresh-<slug>.json

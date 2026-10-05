@@ -97,6 +97,13 @@ if ( ! function_exists( 'hogh_blog_sync_run' ) ) {
 				continue;
 			}
 
+			// REFRESH MODE: rewrite an existing post in place (same URL and date).
+			if ( ! empty( $p['update_slug'] ) ) {
+				$log[]  = $name . ': ' . hogh_refresh_post( $p );
+				$done[] = $name;
+				continue;
+			}
+
 			$slug = sanitize_title( ! empty( $p['slug'] ) ? $p['slug'] : $p['title'] );
 			if ( get_page_by_path( $slug, OBJECT, 'post' ) ) {
 				$log[]  = $name . ': skipped (a post with slug "' . $slug . '" already exists).';
@@ -202,6 +209,92 @@ if ( ! function_exists( 'hogh_blog_sync_run' ) ) {
 		}
 		hogh_sync_finish( $log, $done );
 		return $log;
+	}
+}
+
+if ( ! function_exists( 'hogh_set_featured' ) ) {
+	// Sets a featured image from a URL: reuses a Media Library item if the URL is already there, otherwise downloads it.
+	function hogh_set_featured( $post_id, $url, $alt, $slug ) {
+		$existing = attachment_url_to_postid( $url );
+		if ( $existing ) {
+			set_post_thumbnail( $post_id, $existing );
+			return true;
+		}
+		require_once ABSPATH . 'wp-admin/includes/media.php';
+		require_once ABSPATH . 'wp-admin/includes/file.php';
+		require_once ABSPATH . 'wp-admin/includes/image.php';
+		$tmp = download_url( esc_url_raw( $url ), 30 );
+		if ( is_wp_error( $tmp ) ) {
+			return $tmp;
+		}
+		$exts = array( 'image/jpeg' => 'jpg', 'image/png' => 'png', 'image/webp' => 'webp', 'image/gif' => 'gif' );
+		$mime = wp_get_image_mime( $tmp );
+		if ( ! isset( $exts[ $mime ] ) ) {
+			@unlink( $tmp );
+			return new WP_Error( 'hogh_img', 'not a supported image type' );
+		}
+		$img_id = media_handle_sideload( array( 'name' => $slug . '.' . $exts[ $mime ], 'tmp_name' => $tmp ), $post_id, $alt );
+		if ( is_wp_error( $img_id ) ) {
+			@unlink( $tmp );
+			return $img_id;
+		}
+		set_post_thumbnail( $post_id, $img_id );
+		update_post_meta( $img_id, '_wp_attachment_image_alt', $alt );
+		return true;
+	}
+}
+
+if ( ! function_exists( 'hogh_refresh_post' ) ) {
+	// Rewrites an existing published post. Keeps its URL (slug), date and author.
+	// WordPress saves the previous version as a revision, so it can be restored from Posts > Edit > Revisions.
+	function hogh_refresh_post( $p ) {
+		$slug = sanitize_title( $p['update_slug'] );
+		$post = get_page_by_path( $slug, OBJECT, 'post' );
+		if ( ! $post ) {
+			return 'refresh skipped (no post with slug "' . $slug . '").';
+		}
+		$id   = $post->ID;
+		$args = array(
+			'ID'           => $id,
+			'post_title'   => wp_strip_all_tags( $p['title'] ),
+			'post_content' => wp_kses_post( $p['content'] ),
+		);
+		if ( isset( $p['excerpt'] ) ) {
+			$args['post_excerpt'] = sanitize_text_field( $p['excerpt'] );
+		}
+		if ( ! empty( $p['category'] ) ) {
+			$term = get_term_by( 'name', $p['category'], 'category' );
+			if ( $term ) {
+				$args['post_category'] = array( (int) $term->term_id );
+			}
+		}
+		// If the old post was built with Elementor, back up its layout and switch to the new content.
+		if ( 'builder' === get_post_meta( $id, '_elementor_edit_mode', true ) ) {
+			update_post_meta( $id, '_hogh_elementor_backup', get_post_meta( $id, '_elementor_data', true ) );
+			delete_post_meta( $id, '_elementor_edit_mode' );
+		}
+		$r = wp_update_post( $args, true );
+		if ( is_wp_error( $r ) ) {
+			return 'refresh failed: ' . $r->get_error_message();
+		}
+		if ( ! empty( $p['tags'] ) ) {
+			wp_set_post_tags( $id, array_map( 'sanitize_text_field', (array) $p['tags'] ), false );
+		}
+		foreach ( array( 'focus_keyword' => 'rank_math_focus_keyword', 'meta_title' => 'rank_math_title', 'meta_description' => 'rank_math_description' ) as $k => $meta ) {
+			if ( ! empty( $p[ $k ] ) ) {
+				update_post_meta( $id, $meta, sanitize_text_field( $p[ $k ] ) );
+			}
+		}
+		update_post_meta( $id, '_hogh_refreshed', current_time( 'mysql' ) );
+		$note = '';
+		if ( ! empty( $p['featured_image'] ) ) {
+			$alt = sanitize_text_field( $p['featured_image_alt'] ?? $p['title'] );
+			$img = hogh_set_featured( $id, $p['featured_image'], $alt, $slug );
+			if ( is_wp_error( $img ) ) {
+				$note = ' (featured image failed: ' . $img->get_error_message() . ')';
+			}
+		}
+		return 'refreshed post #' . $id . ' (' . $slug . ')' . $note . '.';
 	}
 }
 
