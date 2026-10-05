@@ -8,6 +8,36 @@ When a post is published, the task changes its status to `done` and adds the URL
 
 ---
 
+## 0. Buy Hiking Gear in Nairobi (PRIORITY: local shop ranking)
+Pillar: **hiking gear shop in Nairobi**: https://hikingoutdoorhub.com/hiking-gear-shop-nairobi/ (the shop page; never write a post targeting this exact keyword)
+
+Purpose: rank the Mountain Mall shop for "where to buy ___ in Nairobi" searches. Every post here is a genuinely useful buying guide (what to look for, how to choose, sizing/fit, new vs thrifted, care) for someone in Nairobi about to buy, and links to the shop page plus the matching shop category and 2-4 products.
+
+| Status | Focus keyword | Category | URL |
+|---|---|---|---|
+| done | hiking gear shop in Nairobi (PILLAR, shop page) | — | https://hikingoutdoorhub.com/hiking-gear-shop-nairobi/ |
+| done | best hiking gear shop Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/best-hiking-gear-shop-nairobi/ |
+| todo | where to buy hiking boots in Nairobi | Hiking Gear Guides | |
+| todo | second hand hiking boots Nairobi | Hiking Gear Guides | |
+| todo | rain jackets for hiking in Nairobi | Hiking Gear Guides | |
+| todo | camping gear Nairobi | Hiking Gear Guides | |
+| todo | where to buy sleeping bags in Nairobi | Hiking Gear Guides | |
+| todo | hiking backpacks Nairobi | Hiking Gear Guides | |
+| todo | where to buy camping gas in Nairobi | Hiking Gear Guides | |
+| todo | where to buy Mt Kenya gear in Nairobi | Hiking Gear Guides | |
+| todo | thrifted outdoor gear Nairobi | Hiking Gear Guides | |
+| todo | women's hiking shoes Nairobi | Hiking Gear Guides | |
+| todo | thermal wear Nairobi | Hiking Gear Guides | |
+| todo | hiking socks Nairobi | Hiking Gear Guides | |
+| todo | trekking poles Nairobi | Hiking Gear Guides | |
+| todo | headlamps Nairobi | Hiking Gear Guides | |
+| todo | hiking gear for beginners Nairobi budget | Hiking Gear Guides | |
+| todo | outdoor gear shop Thika Road | Hiking Gear Guides | |
+| todo | hiking clubs in Nairobi | Hiking Tips | |
+| todo | hikes near Thika Road and Kasarani | Hiking Trails Guide | |
+
+---
+
 ## 1. Nairobi Day Hikes
 Pillar: **best day hikes near Nairobi** — https://hikingoutdoorhub.com/best-day-hikes-near-nairobi-for-beginners/
 
@@ -94,7 +124,9 @@ Pillar: **hiking for beginners in kenya** — https://hikingoutdoorhub.com/hikin
 ---
 
 ## Rules for the daily task
-- Pick the cluster with the fewest `done` posts. If that cluster's PILLAR is `todo`, write the pillar first; otherwise write the next `todo` row from the top.
+- Cluster 0 (Buy Hiking Gear in Nairobi) is the PRIORITY cluster: the cluster slot always takes the next `todo` row from Cluster 0 while it has any. When the fallback in the priority slot needs a cluster post, use the other clusters (1-5).
+- For clusters 1-5: pick the cluster with the fewest `done` posts. If that cluster's PILLAR is `todo`, write the pillar first; otherwise write the next `todo` row from the top.
+- When Cluster 0 has no `todo` rows left, add 3-5 new "<gear item or need> Nairobi" style rows that do not overlap existing ones.
 - A pillar is the broad, complete guide to its cluster (aim for 2,000+ words) and links to every `done` post in the cluster.
 - Every supporting post links to its cluster's pillar (if published) and to 1-2 other `done` posts in the same cluster.
 - After publishing, set the row to `done` and add the post URL (https://hikingoutdoorhub.com/<slug>/).
