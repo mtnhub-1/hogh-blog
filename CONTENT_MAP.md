@@ -11,6 +11,8 @@ When a post is published, the task changes its status to `done` and adds the URL
 ## 0. Buy Hiking Gear in Nairobi (PRIORITY: local shop ranking)
 Pillar: **hiking gear shop in Nairobi**: https://hikingoutdoorhub.com/hiking-gear-shop-nairobi/ (the shop page; never write a post targeting this exact keyword)
 
+Only write a buying guide for a gear type we actually sell (check the product sitemap). If we stock none of it, mark the row `skipped (not stocked)` and take the next row. "Rent or buy" posts must not claim we rent gear.
+
 Purpose: rank the Mountain Mall shop for "where to buy ___ in Nairobi" searches. Every post here is a genuinely useful buying guide (what to look for, how to choose, sizing/fit, new vs thrifted, care) for someone in Nairobi about to buy, and links to the shop page plus the matching shop category and 2-4 products.
 
 | Status | Focus keyword | Category | URL |
@@ -35,6 +37,22 @@ Purpose: rank the Mountain Mall shop for "where to buy ___ in Nairobi" searches.
 | todo | hiking clubs in Nairobi | Hiking Tips | |
 | todo | second hand hiking boots Nairobi | Hiking Gear Guides | |
 | todo | hikes near Thika Road and Kasarani | Hiking Trails Guide | |
+| todo | where to buy Kilimanjaro gear in Nairobi | Hiking Gear Guides | |
+| todo | waterproof hiking boots Nairobi | Hiking Gear Guides | |
+| todo | what to wear for a hike near Nairobi | Hiking Tips | |
+| todo | fleece jackets Nairobi | Hiking Gear Guides | |
+| todo | corporate team building hikes Nairobi | Hiking Tips | |
+| todo | hydration packs Nairobi | Hiking Gear Guides | |
+| todo | hiking boot size guide Kenya | Hiking Gear Guides | |
+| todo | down jackets Nairobi | Hiking Gear Guides | |
+| todo | best time to hike around Nairobi | Hiking Tips | |
+| todo | gloves and balaclavas Nairobi | Hiking Gear Guides | |
+| todo | rent or buy hiking gear in Nairobi | Hiking Gear Guides | |
+| todo | hiking gear gift ideas Nairobi | Hiking Gear Guides | |
+| todo | men's hiking boots Nairobi | Hiking Gear Guides | |
+| todo | hiking hats and sun protection Nairobi | Hiking Gear Guides | |
+| todo | hiking gear delivery in Nairobi | Hiking Gear Guides | |
+| todo | leg gaiters Nairobi | Hiking Gear Guides | |
 
 ---
 
