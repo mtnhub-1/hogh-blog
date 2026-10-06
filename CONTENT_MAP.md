@@ -19,8 +19,8 @@ Purpose: rank the Mountain Mall shop for "where to buy ___ in Nairobi" searches.
 |---|---|---|---|
 | done | hiking gear shop in Nairobi (PILLAR, shop page) | — | https://hikingoutdoorhub.com/hiking-gear-shop-nairobi/ |
 | done | best hiking gear shop Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/best-hiking-gear-shop-nairobi/ |
-| todo | where to buy hiking boots in Nairobi | Hiking Gear Guides | |
-| todo | rain jackets for hiking in Nairobi | Hiking Gear Guides | |
+| done | where to buy hiking boots in Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/where-to-buy-hiking-boots-in-nairobi/ |
+| done | rain jackets for hiking in Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/rain-jackets-for-hiking-in-nairobi/ |
 | todo | camping gear Nairobi | Hiking Gear Guides | |
 | todo | hiking backpacks Nairobi | Hiking Gear Guides | |
 | todo | thrifted outdoor gear Nairobi | Hiking Gear Guides | |
