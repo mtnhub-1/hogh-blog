@@ -9,3 +9,6 @@ Format: date | category | focus keyword | slug
 2026-10-06 | Hiking Gear Guides | rain jackets for hiking in Nairobi | rain-jackets-for-hiking-in-nairobi
 2026-10-06 | Hiking Gear Guides | where to buy hiking boots in Nairobi | where-to-buy-hiking-boots-in-nairobi
 2026-10-06 | REFRESH | where to buy hiking gear in Nairobi | best-hiking-gear-shop-nairobi
+2026-10-07 | Hiking Tips | what to wear hiking in Kenya | what-to-wear-hiking-in-kenya
+2026-10-07 | Hiking Gear Guides | camping gear in Nairobi | camping-gear-nairobi
+2026-10-07 | REFRESH | best day hikes near Nairobi | best-day-hikes-near-nairobi-for-beginners

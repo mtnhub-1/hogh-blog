@@ -21,7 +21,7 @@ Purpose: rank the Mountain Mall shop for "where to buy ___ in Nairobi" searches.
 | done | best hiking gear shop Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/best-hiking-gear-shop-nairobi/ |
 | done | where to buy hiking boots in Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/where-to-buy-hiking-boots-in-nairobi/ |
 | done | rain jackets for hiking in Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/rain-jackets-for-hiking-in-nairobi/ |
-| todo | camping gear Nairobi | Hiking Gear Guides | |
+| done | camping gear in Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/camping-gear-nairobi/ |
 | todo | hiking backpacks Nairobi | Hiking Gear Guides | |
 | todo | thrifted outdoor gear Nairobi | Hiking Gear Guides | |
 | todo | where to buy Mt Kenya gear in Nairobi | Hiking Gear Guides | |
@@ -130,7 +130,7 @@ Pillar: **hiking for beginners in kenya** — https://hikingoutdoorhub.com/hikin
 | Status | Focus keyword | Category | URL |
 |---|---|---|---|
 | done | hiking for beginners in kenya (PILLAR) | Hiking Tips | https://hikingoutdoorhub.com/hiking-for-beginners-in-kenya/ |
-| todo | what to wear hiking in kenya | Hiking Tips | |
+| done | what to wear hiking in kenya | Hiking Tips | https://hikingoutdoorhub.com/what-to-wear-hiking-in-kenya/ |
 | todo | first hike checklist | Hiking Tips | |
 | todo | how to train for hiking | Hiking Tips | |
 | todo | hiking safety tips kenya | Hiking Tips | |
