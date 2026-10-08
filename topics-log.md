@@ -12,3 +12,6 @@ Format: date | category | focus keyword | slug
 2026-10-07 | Hiking Tips | what to wear hiking in Kenya | what-to-wear-hiking-in-kenya
 2026-10-07 | Hiking Gear Guides | camping gear in Nairobi | camping-gear-nairobi
 2026-10-07 | REFRESH | best day hikes near Nairobi | best-day-hikes-near-nairobi-for-beginners
+2026-10-08 | Hiking Gear Guides | thrifted outdoor gear in Nairobi | thrifted-outdoor-gear-nairobi
+2026-10-08 | Hiking Gear Guides | hiking backpacks in Nairobi | hiking-backpacks-nairobi
+2026-10-08 | REFRESH | waterproof rain pants | waterproof-rain-pants-for-hiking-guide

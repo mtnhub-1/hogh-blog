@@ -10,7 +10,7 @@ Order = most value for Nairobi ranking first.
 |---|---|---|---|---|
 | done 2026-10-06 | best-hiking-gear-shop-nairobi | where to buy hiking gear in Nairobi | Hiking Gear Guides | Must NOT target "hiking gear shop in Nairobi" (that is the shop page). Make it a buyer's guide to choosing gear and where to buy it in Nairobi, linking prominently to /hiking-gear-shop-nairobi/. |
 | done 2026-10-07 | best-day-hikes-near-nairobi-for-beginners | best day hikes near Nairobi | Hiking Trails Guide | Pillar of the Nairobi Day Hikes cluster: link to every done post in that cluster (Longonot, Elephant Hill, etc.). |
-| todo | waterproof-rain-pants-for-hiking-guide | waterproof rain pants | Hiking Gear Guides | Currently Uncategorized and scores 81. Link to the rainy season hiking gear pillar. |
+| done 2026-10-08 | waterproof-rain-pants-for-hiking-guide | waterproof rain pants | Hiking Gear Guides | Currently Uncategorized and scores 81. Link to the rainy season hiking gear pillar. |
 | todo | hiking-boots-for-kenyan-trails | hiking boots for Kenyan trails | Hiking Gear Guides | Link to the Nairobi boots buying guide if it is done. |
 | todo | what-to-pack-for-hiking-mt-kenya | what to pack for hiking Mt Kenya | Hiking Gear Guides | Link to Mt Kenya cluster posts that are done. |
 | todo | hiking-jackets-essential-outdoor-gear | hiking jackets | Hiking Gear Guides | |
