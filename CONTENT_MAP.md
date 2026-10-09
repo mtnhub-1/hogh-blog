@@ -24,7 +24,7 @@ Purpose: rank the Mountain Mall shop for "where to buy ___ in Nairobi" searches.
 | done | camping gear in Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/camping-gear-nairobi/ |
 | done | hiking backpacks Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/hiking-backpacks-nairobi/ |
 | done | thrifted outdoor gear Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/thrifted-outdoor-gear-nairobi/ |
-| todo | where to buy Mt Kenya gear in Nairobi | Hiking Gear Guides | |
+| done | where to buy Mt Kenya gear in Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/mt-kenya-gear-nairobi/ |
 | todo | thermal wear Nairobi | Hiking Gear Guides | |
 | todo | where to buy sleeping bags in Nairobi | Hiking Gear Guides | |
 | todo | women's hiking shoes Nairobi | Hiking Gear Guides | |
@@ -116,7 +116,7 @@ Pillar: **rainy season hiking gear** — https://hikingoutdoorhub.com/rainy-seas
 |---|---|---|---|
 | done | rainy season hiking gear (PILLAR) | Hiking Gear Guides | https://hikingoutdoorhub.com/rainy-season-hiking-gear/ |
 | done | waterproof rain pants | Hiking Gear Guides | https://hikingoutdoorhub.com/waterproof-rain-pants-for-hiking-guide/ |
-| todo | hiking in the rain safety tips | Hiking Tips | |
+| done | hiking in the rain safety tips | Hiking Tips | https://hikingoutdoorhub.com/hiking-in-the-rain-safety-tips/ |
 | todo | best rain jacket for hiking | Hiking Gear Guides | |
 | todo | poncho vs rain jacket | Hiking Gear Guides | |
 | todo | how to keep feet dry hiking | Hiking Tips | |
