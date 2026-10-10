@@ -18,3 +18,6 @@ Format: date | category | focus keyword | slug
 2026-10-09 | Hiking Tips | hiking in the rain | hiking-in-the-rain-safety-tips
 2026-10-09 | Hiking Gear Guides | Mt Kenya gear in Nairobi | mt-kenya-gear-nairobi
 2026-10-09 | REFRESH | hiking boots for Kenyan trails | hiking-boots-for-kenyan-trails
+2026-10-10 | Hiking Gear Guides | sleeping bags in Nairobi | sleeping-bags-nairobi
+2026-10-10 | Hiking Gear Guides | thermal wear in Nairobi | thermal-wear-nairobi
+2026-10-10 | REFRESH | what to pack for hiking Mt Kenya | what-to-pack-for-hiking-mt-kenya
