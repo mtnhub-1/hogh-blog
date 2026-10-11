@@ -79,12 +79,15 @@ def score(p, content_ai=False, toc=True, thumbnail=True):
     kw_words = ' '.join(re.sub(r'[^\w\s\'-]', '', w) for w in kw.split())
     add('Focus keyword at beginning of content', 3 if kw_words in first_txt else 0, 3)
     add('Focus keyword in content', 3 if kw in txt.lower() else 0, 3)
+    # Safety margin: count 100 fewer words than we see, so small differences in how
+    # WordPress counts words can never push a post into a lower length band.
+    wc_safe = wc - 100
     for lo, pts in ((2500, 8), (2000, 5), (1500, 4), (1000, 3), (600, 2)):
-        if wc >= lo:
+        if wc_safe >= lo:
             break
     else:
         pts = 0
-    add('Content length', pts, 8, f'{wc} words (2500+ for full points)')
+    add('Content length', pts, 8, f'{wc} words (needs 2600+ here for full points, 2100+ for 5/8)')
     sub = re.search(r'<h[2-6][^>]*>[^<]*' + re.escape(kw) + r'.*?</h[2-6]>', content.lower(), flags=re.S)
     add('Focus keyword in subheading', 3 if sub else 0, 3)
     alts = re.findall(r'<img[^>]*\salt=(["\'])(.*?)\1', content.lower())
