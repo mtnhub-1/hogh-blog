@@ -1,4 +1,8 @@
-# Refresh Queue — old posts to upgrade, one per day
+# Refresh Queue — SUPERSEDED
+
+This queue is replaced by UPGRADE_QUEUE.md (all posts must reach a Rank Math score of 93+). Kept for history only.
+
+# (old) Refresh Queue
 
 The daily task refreshes the first `todo` row each day: it rewrites the post to TEMPLATE.md
 (SEO + AEO rules), keeps the same URL, and adds Nairobi shop links and links to newer posts.

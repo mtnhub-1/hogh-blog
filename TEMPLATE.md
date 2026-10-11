@@ -54,18 +54,24 @@ Image Alt Text:
 10. WhatsApp CTA (orange box, green button), at the very end.
 
 
-## RULES FOR A 93+ RANK MATH SCORE
+## RULES FOR A 93+ RANK MATH SCORE (MANDATORY)
 
-- Length: at least 1,400 words. Aim for 1,600-2,000, because Rank Math gives more points for longer posts.
-- Keyword density: 1-1.2%, which is about 15-20 uses in a 1,600-word post. Spread them naturally.
-- Links: at least 2 internal links (one to a related product, one to another blog post).
-- Links: at least 1 dofollow external link to an authority source, using rel="noopener" rather than nofollow.
-- Paragraphs: under 120 words each, ideally 2-4 sentences.
+Every post must score 93 or higher in Rank Math. tools/rankmath_score.py reproduces Rank Math's own scoring (same tests, same points, same word lists) and must report PASS before a post is saved. SETTINGS.md says whether the Content AI module is on; if it is on, run the checker with --content-ai-module-on.
+
+Where the points are (Rank Math's real weights):
+- Focus keyword in the SEO title (36 of ~100 points): the meta_title must contain the exact focus keyword.
+- Content length (8 points): 2,500+ words gets full points; 2,000-2,499 gets 5; 1,500-1,999 gets 4. When the Content AI module is ON, 2,500+ words is required to reach 93. When it is OFF, 2,000+ is enough. Reach the length with genuinely useful sections (worked examples, comparisons, local specifics, common mistakes, care and maintenance, sizing), never padding.
+- Images (6 points): 4 or more images in total, counting the featured image. So every post needs a featured image plus at least 3 <img> tags in the body, spread through the post, each with descriptive alt text (at least one containing the focus keyword).
+- Keyword density (6 points): full points from 1.0% to 2.5%. Aim for 1.1-1.5% (the checker counts exact-phrase uses ÷ total words).
+- Internal links (5), keyword in URL (5), dofollow external link (4 + 2), URL 75 characters or less including https://hikingoutdoorhub.com/ (4).
+- 3 points each: keyword in the first 10% of the content, keyword in the content, keyword in an H2-H6 subheading, keyword in the first half of the SEO title, no paragraph over 120 words.
+- 2 points each: keyword in the meta description, keyword in an image alt, Table of Contents (Easy Table of Contents plugin, auto-inserted).
+- 1 point each, SEO title only: a number, a Rank Math power word (tools/rankmath_powerwords_en.json) and an emotional sentiment word (tools/rankmath_sentiment_en.json). Words that are both and read naturally: best, easy, safe, honest, free, comfortable, reliable, great, affordable, happy. Numbers can be natural: distances (13.5 km), altitudes (4,985 m), days, layers, months, list counts. Rotate the words; do not reuse the same power word in two consecutive posts' SEO titles.
+- These title points apply to the SEO title (meta_title) only. The on-page Post Title (H1) stays fully human and varied.
+
+Other rules:
 - Bold text: none inside paragraphs. Bold labels in bullet lists are fine.
-- Image: at least one inside the post body, with the keyword in its alt text.
-- Table of Contents: Rank Math only detects this from a TOC plugin or block. Use a plugin such as Easy Table of Contents or LuckyWP Table of Contents, set to auto-insert on posts.
-- Every word must earn its place: reach the length through genuinely useful coverage (follow-up questions, examples, comparisons), never padding or repetition.
-
+- Every word must earn its place.
 
 ## RULES FOR AEO (AI Overviews, ChatGPT, Perplexity and other answer engines)
 
