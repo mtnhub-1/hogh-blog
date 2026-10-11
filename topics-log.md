@@ -21,3 +21,6 @@ Format: date | category | focus keyword | slug
 2026-10-10 | Hiking Gear Guides | sleeping bags in Nairobi | sleeping-bags-nairobi
 2026-10-10 | Hiking Gear Guides | thermal wear in Nairobi | thermal-wear-nairobi
 2026-10-10 | REFRESH | what to pack for hiking Mt Kenya | what-to-pack-for-hiking-mt-kenya
+2026-10-11 | Hiking Trails Guide | Mt Kenya hiking | mt-kenya-hiking-guide
+2026-10-11 | Hiking Gear Guides | hiking socks in Nairobi | hiking-socks-nairobi
+2026-10-11 | REFRESH | hiking jackets | hiking-jackets-essential-outdoor-gear

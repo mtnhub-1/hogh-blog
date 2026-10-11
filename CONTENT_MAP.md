@@ -28,7 +28,7 @@ Purpose: rank the Mountain Mall shop for "where to buy ___ in Nairobi" searches.
 | done | thermal wear Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/thermal-wear-nairobi/ |
 | done | where to buy sleeping bags in Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/sleeping-bags-nairobi/ |
 | todo | women's hiking shoes Nairobi | Hiking Gear Guides | |
-| todo | hiking socks Nairobi | Hiking Gear Guides | |
+| done | hiking socks Nairobi | Hiking Gear Guides | https://hikingoutdoorhub.com/hiking-socks-nairobi/ |
 | todo | where to buy camping gas in Nairobi | Hiking Gear Guides | |
 | todo | hiking gear for beginners Nairobi budget | Hiking Gear Guides | |
 | todo | trekking poles Nairobi | Hiking Gear Guides | |
@@ -75,11 +75,11 @@ Pillar: **best day hikes near Nairobi** — https://hikingoutdoorhub.com/best-da
 | todo | how to get to hiking trails from nairobi by matatu | Hiking Tips | |
 
 ## 2. Mt Kenya
-Pillar: **mt kenya hiking guide** (todo — write this first in this cluster)
+Pillar: **mt kenya hiking guide** — https://hikingoutdoorhub.com/mt-kenya-hiking-guide/
 
 | Status | Focus keyword | Category | URL |
 |---|---|---|---|
-| todo | mt kenya hiking guide (PILLAR) | Hiking Trails Guide | |
+| done | mt kenya hiking guide (PILLAR) | Hiking Trails Guide | https://hikingoutdoorhub.com/mt-kenya-hiking-guide/ |
 | done | what to pack for hiking mt kenya | Hiking Gear Guides | https://hikingoutdoorhub.com/what-to-pack-for-hiking-mt-kenya/ |
 | todo | best time to climb mt kenya | Hiking Tips | |
 | todo | sirimon route mt kenya | Hiking Trails Guide | |

@@ -13,7 +13,7 @@ Order = most value for Nairobi ranking first.
 | done 2026-10-08 | waterproof-rain-pants-for-hiking-guide | waterproof rain pants | Hiking Gear Guides | Currently Uncategorized and scores 81. Link to the rainy season hiking gear pillar. |
 | done 2026-10-09 | hiking-boots-for-kenyan-trails | hiking boots for Kenyan trails | Hiking Gear Guides | Link to the Nairobi boots buying guide if it is done. |
 | done 2026-10-10 | what-to-pack-for-hiking-mt-kenya | what to pack for hiking Mt Kenya | Hiking Gear Guides | Link to Mt Kenya cluster posts that are done. |
-| todo | hiking-jackets-essential-outdoor-gear | hiking jackets | Hiking Gear Guides | |
+| done 2026-10-11 | hiking-jackets-essential-outdoor-gear | hiking jackets | Hiking Gear Guides | |
 | todo | layering-for-cold-weather-hikes | layering for cold weather hikes | Hiking Tips | |
 | todo | kilimanjaro-gear-checklist | Kilimanjaro gear checklist | Hiking Gear Guides | |
 | todo | lowa-renegade-evo-gtx-mid | Lowa Renegade GTX Mid | Hiking Gear Guides | Product review post: keep it about this boot; link its product page. |
