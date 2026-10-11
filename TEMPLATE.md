@@ -5,8 +5,23 @@
 Focus Keyword:
 [Main search phrase, e.g. "what to pack for Mt Kenya"]
 
-SEO Title (under 60 characters, with the keyword at the start, a number, a power word and positive sentiment):
-[Keyword]: [Number] [Power Word] Tips for [Outcome]
+Post Title / H1 (what readers see on the page): written like a human editor would, specific to this post, and different in shape from recent titles. It should contain the keyword or a close natural variant.
+
+SEO Title (under 60 characters, keyword at the start): states what the reader gets, in plain words. It can differ from the Post Title.
+
+TITLE VARIETY RULES (both titles):
+- Never reuse the "[Keyword]: [Number] [Adjective] Tips for [Outcome]" formula.
+- Before writing, read the titles of the last 15 posts in topics-log.md / the posts folder. Today's titles must not share their structure or adjectives.
+- Rotate between shapes such as:
+  - Question: "Do You Really Need Rain Pants for Hiking in Kenya?"
+  - How/what statement: "What to Wear Hiking in Kenya, From Ngong Hills to Mt Kenya"
+  - Problem or scene: "Caught in a Downpour? How to Hike Safely in Kenya's Rains"
+  - Comparison: "Shell, Fleece or Down? Hiking Jackets for Kenya Explained"
+  - Plain guide: "Where to Buy Hiking Boots in Nairobi (and How to Get the Fit Right)"
+  - Specific detail: "Elephant Hill: The Aberdares' Toughest Day Hike, Explained"
+- Use a number in at most 1 in 4 titles, and only when the post really is a numbered list or checklist.
+- Banned in titles: Essential, Ultimate, Smart, Proven, Amazing, Brilliant, Expert, Complete Guide, Everything You Need to Know, Top Tips, Unlock, Discover, Master.
+- No title may start with the same first three words as any of the last 15 titles.
 
 Permalink (short, keyword only):
 [keyword-in-lowercase-hyphens]
@@ -65,7 +80,7 @@ Answer engines quote short, self-contained passages. Write so that any section c
 - Structured content: include at least one HTML table (comparison, kit list, route stages or month-by-month conditions) or numbered step list where it fits the topic. Use this table style:
   <table style="width:100%; border-collapse:collapse; margin:20px 0;"><thead><tr style="background-color:#0B789D; color:#ffffff;"><th style="padding:10px; text-align:left;">[Header]</th><th style="padding:10px; text-align:left;">[Header]</th></tr></thead><tbody><tr style="border-bottom:1px solid #dddddd;"><td style="padding:10px;">[Cell]</td><td style="padding:10px;">[Cell]</td></tr></tbody></table>
 - FAQ answers: 40-80 words each, starting with a direct answer and repeating the subject (e.g. "Mt Longonot takes 4-5 hours..." rather than "It takes..."). Use real search questions.
-- Final Thoughts: open with a 2-3 sentence summary of the key answer, then the nudge to act.
+- Final Thoughts: summarise the key answer in 2-3 sentences (worded freshly, see "RULES FOR SOUNDING HUMAN"), then the nudge to act.
 - Trust signals: write as a Kenyan hiking gear and guided-hike business that knows these trails, but never invent personal stories, customer quotes, statistics or experiences. Cite authority sources for safety, park and weather facts.
 - Avoid putting the year in titles or slugs so posts don't go stale; mention seasons and conditions instead.
 
@@ -112,3 +127,17 @@ Answer engines quote short, self-contained passages. Write so that any section c
 <img src="[IMAGE URL]" alt="[Keyword] [scene description]" style="width:100%; height:auto; border-radius:8px; margin:20px 0;" />
 
 Note: the Shop CTA assumes the shop page is at /shop/ (WooCommerce default). Change it if yours is different.
+
+## RULES FOR SOUNDING HUMAN (avoid an "AI-written" feel)
+
+Readers and Google both notice formulas repeated across posts. Each post should read as if a knowledgeable Kenyan hiker and shop owner wrote it for this specific topic.
+
+- Vary openings. The intro must not start the same way as any of the last 10 posts. Do not open with "The [keyword] is..." every time; lead with a concrete detail, a common mistake, a season, a place, or the reader's situation, and still answer the question within the first 40-60 words.
+- Vary the Final Thoughts. Do not begin it with "The best [keyword] is/are...", "[Keyword] is simple...", "The simplest answer to...", or any opening used in the last 10 posts. Summarise in fresh words, then give one specific next step.
+- Banned phrases anywhere in the body: "this guide", "in this guide", "whether you're a beginner or", "with the right gear", "takes the guesswork out", "look no further", "embark", "journey" (unless literally about travel), "delve", "dive into", "navigate" (unless about route-finding), "game-changer", "unforgettable", "breathtaking", "nestled", "hidden gem", "elevate", "seamless", "rest assured", "peace of mind", "plays a key role", "it's worth noting", "in conclusion", "ultimately", "adventure awaits".
+- Use "essential" at most once per post, and "crucial" / "vital" not at all.
+- Prefer specifics over adjectives: name the trail section, the month, the altitude, the fabric, the boot feature, the matatu stage, the temperature. Concrete details are what make writing feel human and trustworthy.
+- Vary sentence length and rhythm. Mix short sentences with longer ones. Avoid lists of three adjectives.
+- Not every section needs a bullet list. Use prose where a person would naturally explain something.
+- FAQ questions must be phrased the way real people ask them (including slightly informal wording), not as tidy restatements of the H2s.
+- Before saving, compare today's intros, H2s and Final Thoughts openings with the last 10 posts and rewrite anything that matches their pattern.

@@ -91,15 +91,14 @@ if ( ! function_exists( 'hogh_blog_sync_run' ) ) {
 				continue; // retry next hour
 			}
 			$p = json_decode( $raw, true );
-			if ( empty( $p['title'] ) || empty( $p['content'] ) ) {
-				$log[]  = $name . ': skipped (missing title or content).';
+			// REFRESH / RETITLE MODE: update an existing post in place (same URL and date).
+			if ( is_array( $p ) && ! empty( $p['update_slug'] ) ) {
+				$log[]  = $name . ': ' . hogh_refresh_post( $p );
 				$done[] = $name;
 				continue;
 			}
-
-			// REFRESH MODE: rewrite an existing post in place (same URL and date).
-			if ( ! empty( $p['update_slug'] ) ) {
-				$log[]  = $name . ': ' . hogh_refresh_post( $p );
+			if ( empty( $p['title'] ) || empty( $p['content'] ) ) {
+				$log[]  = $name . ': skipped (missing title or content).';
 				$done[] = $name;
 				continue;
 			}
@@ -254,11 +253,14 @@ if ( ! function_exists( 'hogh_refresh_post' ) ) {
 			return 'refresh skipped (no post with slug "' . $slug . '").';
 		}
 		$id   = $post->ID;
-		$args = array(
-			'ID'           => $id,
-			'post_title'   => wp_strip_all_tags( $p['title'] ),
-			'post_content' => wp_kses_post( $p['content'] ),
-		);
+		$args = array( 'ID' => $id );
+		if ( ! empty( $p['title'] ) ) {
+			$args['post_title'] = wp_strip_all_tags( $p['title'] );
+		}
+		$has_content = ! empty( $p['content'] );
+		if ( $has_content ) {
+			$args['post_content'] = wp_kses_post( $p['content'] );
+		}
 		if ( isset( $p['excerpt'] ) ) {
 			$args['post_excerpt'] = sanitize_text_field( $p['excerpt'] );
 		}
@@ -269,7 +271,7 @@ if ( ! function_exists( 'hogh_refresh_post' ) ) {
 			}
 		}
 		// If the old post was built with Elementor, back up its layout and switch to the new content.
-		if ( 'builder' === get_post_meta( $id, '_elementor_edit_mode', true ) ) {
+		if ( $has_content && 'builder' === get_post_meta( $id, '_elementor_edit_mode', true ) ) {
 			update_post_meta( $id, '_hogh_elementor_backup', get_post_meta( $id, '_elementor_data', true ) );
 			delete_post_meta( $id, '_elementor_edit_mode' );
 		}
@@ -285,7 +287,9 @@ if ( ! function_exists( 'hogh_refresh_post' ) ) {
 				update_post_meta( $id, $meta, sanitize_text_field( $p[ $k ] ) );
 			}
 		}
-		update_post_meta( $id, '_hogh_refreshed', current_time( 'mysql' ) );
+		if ( $has_content ) {
+			update_post_meta( $id, '_hogh_refreshed', current_time( 'mysql' ) );
+		}
 		$note = '';
 		if ( ! empty( $p['featured_image'] ) ) {
 			$alt = sanitize_text_field( $p['featured_image_alt'] ?? $p['title'] );
@@ -294,7 +298,7 @@ if ( ! function_exists( 'hogh_refresh_post' ) ) {
 				$note = ' (featured image failed: ' . $img->get_error_message() . ')';
 			}
 		}
-		return 'refreshed post #' . $id . ' (' . $slug . ')' . $note . '.';
+		return ( $has_content ? 'refreshed' : 'retitled' ) . ' post #' . $id . ' (' . $slug . ')' . $note . '.';
 	}
 }
 
