@@ -6,6 +6,8 @@ Owner's instruction (11 Oct 2026): write blogs in this priority order so the sit
 3. **Phase 3 – Mt Kenya and Mt Kilimanjaro routes and sample itineraries**
 4. Phase 4 – other useful tips (only after Phases 1-3 are finished)
 
+Owner's update (11 Oct 2026): write a guide for EVERY hike we run, even if its date has passed (these go first, as [HIKE] rows), and write about the big hiking and mountaineering brands (Columbia, Salomon, Adidas Terrex, Deuter, Keen, The North Face, Scarpa and others) as [BRAND] rows mixed into Phase 1. The key goal is to rank highest in Nairobi for gear and hikes.
+
 Status: `done` = published (URL filled in) · `todo` = not written yet · `skipped (<reason>)`.
 When a post is published, the task changes its status to `done` and adds the URL.
 
@@ -16,7 +18,7 @@ When a post is published, the task changes its status to `done` and adds the URL
 - Exception for time-sensitive hikes: the morning task's Post 1 may write a trail guide for a hike on https://hikingoutdoorhub.com/hike-calendar/ dated 7-28 days ahead that has no guide yet (max 2 per week). Mark the matching Phase 2 row `done` when you do.
 - Otherwise EVERY new post (morning Post 1, morning Post 2, afternoon post) takes the next `todo` row from the top of this queue: all of Phase 1 first, then Phase 2, then Phase 3, then Phase 4. Within a phase go strictly top to bottom.
 - The afternoon task takes the next `todo` row after the ones used by today's morning posts.
-- Each phase has a PILLAR row at the top. Write it first in its phase; afterwards every post in that phase links to it, and the pillar is refreshed later to link back to the new posts.
+- Each phase has a PILLAR row near the top (in Phase 1 the [HIKE] rows come before it). Rows are always taken strictly top to bottom; afterwards every post in that phase links to it, and the pillar is refreshed later to link back to the new posts.
 - Never write two posts about the same gear type or the same trail on the same day; if the next row would do that, take the row after and come back to it the next day.
 - If a topic is already covered on the site (check the post sitemap and "Already published" below), mark it `done` with the existing URL and take the next row.
 
@@ -24,63 +26,90 @@ When a post is published, the task changes its status to `done` and adds the URL
 - **Phase 1 [NBO] rows (Nairobi buying guides):** apply the full Nairobi rules from the task prompt: "Nairobi" in the focus keyword, SEO title, first paragraph, one H2 and meta description; an H2 answering where to buy it in Nairobi (our Mountain Mall shop on Thika Road with hours, plus online ordering with M-Pesa or cash on delivery); a "what to look for when buying" checklist or table; the matching shop category link; 2-4 product links to the actual items.
 - **Phase 1 [MODEL] rows (a specific branded model we stock):** an honest, specs-based guide to that model: what it is, materials and features (from the brand's official page), fit and sizing notes, which Kenyan trails and conditions it suits, how it compares with the other boots/jackets we stock, care tips, and "where to get it in Nairobi" (our shop, linking the product page). Never claim we tested or wore it; no invented reviews. Before writing, open the product URL: if it no longer exists or says out of stock, mark the row `skipped (sold out)` and take the next row.
 - **Phase 1 all rows:** only link product URLs that are in the current product sitemap; link every relevant item we stock.
+- **[HIKE] rows (our own hikes, past or upcoming):** a full trail guide following the Phase 2 rules, plus a section on hiking it with us. If the hike is on https://hikingoutdoorhub.com/hike-calendar/ with a future date, name the date in the Hikes CTA and link its event page; if its date has passed or it is not listed, do NOT give a date: say we run this hike regularly and invite readers to check the hike calendar or WhatsApp for the next date (Hikes CTA links to https://hikingoutdoorhub.com/hike-calendar/). Whenever the hike calendar shows a hike with no guide yet (check "Already published" and topics-log.md), add a [HIKE] row for it at the top of the Phase 1 table.
+- **[BRAND] rows (big outdoor brands):** keyword like "<brand> Nairobi" or "<brand> hiking boots Kenya" (as in the row). Cover: what the brand is known for and its main hiking lines (facts from the brand's official site), which of its products suit Kenyan trails and weather, sizing and fit quirks, buying it second-hand/thrifted (what to look for, typical wear), general signs of a genuine item vs a counterfeit (labels, stitching, tags; keep it general and never accuse any seller), care, and "where to find <brand> in Nairobi" with our Mountain Mall shop. Before writing, search our shop: WebFetch https://hikingoutdoorhub.com/?s=<brand>&post_type=product and the brand page https://hikingoutdoorhub.com/brand/<brand>/ if it exists. Link every product of that brand we list. If we list none right now, do not claim we have a specific item: say our thrifted stock of big brands changes often and invite readers to WhatsApp us to ask what <brand> pieces are in, and link the relevant shop category instead. Never claim we are an official, authorised or partner dealer. Never disparage any brand. Comparison rows ("X vs Y") compare fairly using official specs.
 - **Phase 2 (trails):** focus keyword uses the name people search ("ngong hills hike"). Every trail guide includes: distance and drive time from Nairobi CBD, how to get there from Nairobi (car and matatu where possible), trail stats table (distance, elevation gain, time, difficulty), route description, best time of year, fees/permits (only if verified, else "confirm with KWS/KFS"), safety, and a "what to wear and pack" section linking 2-4 of our products and the shop page. If we run a guided hike there (hike calendar or our hike products), link and promote it.
 - **Phase 3 (Mt Kenya / Kilimanjaro):** route guides cover start/end gates, distance, days, altitude profile, camps/huts, scenery, difficulty, success factors, getting there from Nairobi, and a gear section linking our products and the Kilimanjaro/Mt Kenya gear posts. Itinerary posts give a day-by-day table (start, end, altitude, hours, distance) using verified figures. Never quote climb package prices; for park fees only verified official figures with "(checked Month YYYY)".
 
 ---
 
 ## Phase 1 – Products we sell
-Pillar: **hiking gear checklist Kenya** (todo; the hub linking every product category and every Phase 1 post)
+Pillars: **hiking gear checklist Kenya** (hub for product types) and **best hiking boot brands Kenya** (hub for brands). Rows marked HIKE are our own hikes and come first.
 
 Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua waterproof, Quechua MH100, Quechua Forclaz 500 High, Lowa Renegade GTX Mid, Keen Targhee Mid WP, Karrimor Hot Rock, Brütting Mount Bona men's and women's, Scarpa R-Evolution), merino and synthetic socks, rain pants, rain ponchos (adult and kids), Regatta waterproof jacket, fleece soft-shell jacket, women's packable down jacket, women's winter zip-up, fleece-lined thermal pants (men/women), thermal underwear, long johns, fleece-lined hiking pants, zip-off cargo pants, quick-dry T-shirts (long and short sleeve), Thinsulate gloves, fleece-lined mittens, balaclava, winter trapper hat, wide-brim sun hat, UV400 sunglasses, 28L day backpack, 3L hydration backpacks (incl. tactical camel), rechargeable headlamp, ultralight trekking pole, leg gaiters, Cadac 500g and Coleman C300 gas cartridges, 15°C mummy down sleeping bag.
 
 | Status | Focus keyword | Type | Category | Notes | URL |
 |---|---|---|---|---|---|
+| todo | table mountain hike kenya | HIKE | Hiking Trails Guide | Our hike (7 Nov 2026): https://hikingoutdoorhub.com/excursions/table-mountain-day-hike/ | |
+| todo | oldoinyo lesatima hike | HIKE | Hiking Trails Guide | Dragon's Teeth. Our hike (14 Nov 2026): https://hikingoutdoorhub.com/excursions/oldoinyo-lesatima-dragons-teeth/ | |
+| todo | ol donyo sabuk hike | HIKE | Hiking Trails Guide | Also called Mt Kilimambogo. Our hike (21 Nov 2026): https://hikingoutdoorhub.com/excursions/mt-kilimambogo-day-hike/ | |
 | todo | hiking gear checklist Kenya (PILLAR) | NBO | Hiking Gear Guides | Hub for all products: one section per gear type, linking each category/product and each done Phase 1 post. Mention buying in Nairobi; keyword has "Kenya". | |
 | todo | waterproof hiking boots Nairobi | NBO | Hiking Gear Guides | Link the waterproof boots we stock. Differ from where-to-buy-hiking-boots-in-nairobi (focus on waterproofing: Gore-Tex vs membranes, rainy season). | |
 | todo | women's hiking shoes Nairobi | NBO | Hiking Gear Guides | Brütting Mount Bona women's, any other women's footwear. | |
+| todo | best hiking boot brands Kenya | BRAND | Hiking Gear Guides | Hub post for all brands: one section per brand, links every [BRAND] post as they are published. | |
 | todo | headlamps Nairobi | NBO | Hiking Gear Guides | Rechargeable headlamp; Mt Kenya summit nights, camping. | |
 | todo | trekking poles Nairobi | NBO | Hiking Gear Guides | Ultralight foldable pole; Longonot descents, Mt Kenya. | |
+| todo | The North Face Nairobi | BRAND | Hiking Gear Guides | Jackets, fleeces, down, packs. | |
 | todo | hydration packs Nairobi | NBO | Hiking Gear Guides | 3L hydration backpacks incl. tactical camel; bladder care. | |
 | todo | where to buy camping gas in Nairobi | NBO | Hiking Gear Guides | Cadac 500g and Coleman C300: which stove fits which cartridge, safety, carrying gas on matatus/flights (verify rules). | |
+| todo | Columbia hiking gear Nairobi | BRAND | Hiking Gear Guides | We have a Columbia brand page: /brand/columbia/. | |
 | todo | fleece jackets Nairobi | NBO | Hiking Gear Guides | Soft-shell fleece; layering for Aberdares, Mt Kenya. | |
 | todo | down jackets Nairobi | NBO | Hiking Gear Guides | Women's packable down jacket, winter zip-up; down vs synthetic, care. | |
+| todo | Salomon hiking shoes Kenya | BRAND | Hiking Gear Guides | X Ultra, Quest; trail runners vs boots. | |
 | todo | men's hiking boots Nairobi | NBO | Hiking Gear Guides | Overview of all men's boots we stock, linking each. | |
 | todo | hiking gloves Nairobi | NBO | Hiking Gear Guides | Thinsulate waterproof gloves, fleece-lined mittens; summit cold. | |
+| todo | Keen hiking boots Kenya | BRAND | Hiking Gear Guides | Brand page /brand/keen/; differ from the Keen Targhee Mid model row. | |
 | todo | Keen Targhee Mid waterproof | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | todo | leg gaiters Nairobi | NBO | Hiking Gear Guides | Both gaiter products; mud, Aberdares bogs, Mt Kenya scree. | |
+| todo | Deuter backpacks Kenya | BRAND | Hiking Gear Guides | Daypacks, Aircontact/Futura lines, hydration compatibility. | |
 | todo | balaclava Nairobi | NBO | Hiking Gear Guides | Fleece-lined balaclava; cold summits, bikers too. | |
 | todo | Quechua MH100 hiking boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
+| todo | Scarpa hiking boots Kenya | BRAND | Hiking Gear Guides | Differ from the Scarpa R-Evolution model row. | |
 | todo | hiking hats Nairobi | NBO | Hiking Gear Guides | Wide-brim sun hat and winter trapper hat; sun at altitude vs cold. Differ from the-tactical-winter-trapper-hat post. | |
 | todo | hiking sunglasses Kenya | NBO | Hiking Gear Guides | UV400 sunglasses; equator UV, snow glare on Kilimanjaro. | |
+| todo | Adidas Terrex Kenya | BRAND | Hiking Gear Guides | Terrex shoes and jackets. | |
 | todo | Quechua Forclaz 500 waterproof boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | todo | quick dry shirts Nairobi | NBO | Hiking Gear Guides | Long and short sleeve quick-dry tees; cotton vs synthetic. | |
+| todo | Lowa hiking boots Kenya | BRAND | Hiking Gear Guides | Brand page /brand/lowa/; differ from the lowa-renegade-evo-gtx-mid post. | |
 | todo | zip off hiking pants Nairobi | NBO | Hiking Gear Guides | Zip-off cargo pants; convertible trousers for Kenyan weather. | |
 | todo | rain poncho Kenya | NBO | Hiking Gear Guides | Adult poncho (+ kids poncho); poncho vs rain jacket. Differ from saphirose kids poncho post. | |
+| todo | Merrell hiking shoes Kenya | BRAND | Hiking Gear Guides | Moab and others. | |
 | todo | Scarpa R-Evolution boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | todo | second hand hiking boots Nairobi | NBO | Hiking Gear Guides | How to judge thrifted boots (soles, uppers, fit); differ from thrifted-outdoor-gear-nairobi. | |
+| todo | Karrimor Nairobi | BRAND | Hiking Gear Guides | Brand page /brand/karrimor/; differ from the Karrimor Hot Rock model row. | |
 | todo | Karrimor Hot Rock walking boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | todo | hiking boot size guide Kenya | NBO | Hiking Gear Guides | UK/EU/US sizes, fitting tips, women's vs men's lasts. | |
+| todo | Quechua Nairobi | BRAND | Hiking Gear Guides | Decathlon's hiking brand; brand page /brand/quechua/. | |
 | todo | Brütting Mount Bona hiking boots | MODEL | Hiking Gear Guides | Men's and women's versions. | |
 | todo | Regatta waterproof jacket | MODEL | Hiking Gear Guides | Specs-based model guide; differ from rain-jackets-for-hiking-in-nairobi. | |
+| todo | Jack Wolfskin Kenya | BRAND | Hiking Gear Guides |  | |
 | todo | where to buy Kilimanjaro gear in Nairobi | NBO | Hiking Gear Guides | Differ from kilimanjaro-gear-checklist (this is about buying it in Nairobi). | |
 | todo | hiking gear for beginners Nairobi budget | NBO | Hiking Gear Guides | A starter kit at different budgets using our items (prices only from our product pages). | |
+| todo | Berghaus Kenya | BRAND | Hiking Gear Guides |  | |
 | todo | how to care for hiking boots | NBO | Hiking Tips | Cleaning, drying, re-waterproofing; link boots and socks. | |
 | todo | hiking gear gift ideas Nairobi | NBO | Hiking Gear Guides | | |
+| todo | Osprey backpacks Kenya | BRAND | Hiking Gear Guides |  | |
 | todo | hiking gear delivery in Nairobi | NBO | Hiking Gear Guides | Online ordering, M-Pesa, cash on delivery; areas served only if confirmed on our site. | |
 | todo | outdoor gear shop Thika Road | NBO | Hiking Gear Guides | Local-area post: Kasarani, Roysambu, Garden Estate, Thome, Githurai, Ruiru shoppers. Must not target "hiking gear shop in Nairobi". | |
+| todo | Mammut Kenya | BRAND | Hiking Gear Guides |  | |
+| todo | Patagonia Kenya | BRAND | Hiking Gear Guides |  | |
+| todo | Black Diamond trekking poles Kenya | BRAND | Hiking Gear Guides | Also headlamps. | |
+| todo | Regatta Kenya | BRAND | Hiking Gear Guides | Differ from the Regatta waterproof jacket model row. | |
+| todo | Under Armour hiking Kenya | BRAND | Hiking Gear Guides | Brand page /brand/under-amour/ (spelt that way on our site). | |
+| todo | Hi-Tec hiking boots Kenya | BRAND | Hiking Gear Guides |  | |
+| todo | Salomon vs Merrell hiking shoes | BRAND | Hiking Gear Guides |  | |
+| todo | The North Face vs Columbia jackets | BRAND | Hiking Gear Guides |  | |
+| todo | Lowa vs Scarpa boots | BRAND | Hiking Gear Guides |  | |
+| todo | how to spot fake hiking boots Nairobi | BRAND | Hiking Gear Guides | General signs only; never name or accuse a seller. | |
 
 ## Phase 2 – Kenya trails
 Pillar: **best hikes in Kenya** (todo; links to every trail guide; points to best-day-hikes-near-nairobi-for-beginners for day hikes)
 
-Our guided hikes come first (they sell hikes): Table Mountain, Ol Donyo Sabuk/Kilimambogo, Oldoinyo Lesatima Dragon's Teeth.
+Our own hikes were moved to the top of Phase 1 as [HIKE] rows.
 
 | Status | Focus keyword | Region | Notes | URL |
 |---|---|---|---|---|
 | todo | best hikes in Kenya (PILLAR) | All Kenya | | |
-| todo | table mountain hike kenya | Aberdares/Kinangop | Our guided hike: https://hikingoutdoorhub.com/excursions/table-mountain-day-hike/ | |
-| todo | ol donyo sabuk hike | Machakos/Thika | Also "Kilimambogo". Our guided hike: https://hikingoutdoorhub.com/excursions/mt-kilimambogo-day-hike/ | |
-| todo | oldoinyo lesatima hike | Aberdares | Dragon's Teeth. Our guided hike: https://hikingoutdoorhub.com/excursions/oldoinyo-lesatima-dragons-teeth/ | |
 | todo | ngong hills hike | Nairobi/Kajiado | | |
 | todo | hells gate hike | Naivasha | | |
 | todo | mt suswa hike | Narok/Kajiado | | |
