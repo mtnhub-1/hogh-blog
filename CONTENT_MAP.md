@@ -14,10 +14,8 @@ When a post is published, the task changes its status to `done` and adds the URL
 ---
 
 ## How the daily tasks pick topics (READ FIRST)
-- Owner ideas in TOPIC_IDEAS.md always come first (the morning task's Post 1 takes the oldest unchecked idea).
-- Exception for time-sensitive hikes: the morning task's Post 1 may write a trail guide for a hike on https://hikingoutdoorhub.com/hike-calendar/ dated 7-28 days ahead that has no guide yet (max 2 per week). Mark the matching Phase 2 row `done` when you do.
-- Otherwise EVERY new post (morning Post 1, morning Post 2, afternoon post) takes the next `todo` row from the top of this queue: all of Phase 1 first, then Phase 2, then Phase 3, then Phase 4. Within a phase go strictly top to bottom.
-- The afternoon task takes the next `todo` row after the ones used by today's morning posts.
+- The blog task runs 5 times a day: 4 runs each write one new post (07:00, 11:00, 15:00, 18:00) and one run does the daily upgrade. Owner ideas in TOPIC_IDEAS.md come first (new post 1 of the day takes the oldest unchecked idea).
+- Otherwise every new post takes the next `todo` row from the top of this queue: all of Phase 1 first (its [HIKE] rows at the top), then Phase 2, then Phase 3, then Phase 4. Within a phase go strictly top to bottom.
 - Each phase has a PILLAR row near the top (in Phase 1 the [HIKE] rows come before it). Rows are always taken strictly top to bottom; afterwards every post in that phase links to it, and the pillar is refreshed later to link back to the new posts.
 - Never write two posts about the same gear type or the same trail on the same day; if the next row would do that, take the row after and come back to it the next day.
 - If a topic is already covered on the site (check the post sitemap and "Already published" below), mark it `done` with the existing URL and take the next row.
