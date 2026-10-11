@@ -40,7 +40,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 
 | Status | Focus keyword | Type | Category | Notes | URL |
 |---|---|---|---|---|---|
-| todo | table mountain hike kenya | HIKE | Hiking Trails Guide | Our hike (7 Nov 2026): https://hikingoutdoorhub.com/excursions/table-mountain-day-hike/ | |
+| done | table mountain hike kenya | HIKE | Hiking Trails Guide | Our hike (7 Nov 2026): https://hikingoutdoorhub.com/excursions/table-mountain-day-hike/ · Rank Math focus keyword used: "table mountain hike" (slug and SEO title include "Kenya") | https://hikingoutdoorhub.com/table-mountain-hike-kenya/ |
 | todo | oldoinyo lesatima hike | HIKE | Hiking Trails Guide | Dragon's Teeth. Our hike (14 Nov 2026): https://hikingoutdoorhub.com/excursions/oldoinyo-lesatima-dragons-teeth/ | |
 | todo | ol donyo sabuk hike | HIKE | Hiking Trails Guide | Also called Mt Kilimambogo. Our hike (21 Nov 2026): https://hikingoutdoorhub.com/excursions/mt-kilimambogo-day-hike/ | |
 | todo | hiking gear checklist Kenya (PILLAR) | NBO | Hiking Gear Guides | Hub for all products: one section per gear type, linking each category/product and each done Phase 1 post. Mention buying in Nairobi; keyword has "Kenya". | |
@@ -204,6 +204,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - hiking in the rain safety tips: https://hikingoutdoorhub.com/hiking-in-the-rain-safety-tips/
 - hiking for beginners in Kenya: https://hikingoutdoorhub.com/hiking-for-beginners-in-kenya/
 - what to wear hiking in Kenya: https://hikingoutdoorhub.com/what-to-wear-hiking-in-kenya/
+- table mountain hike: https://hikingoutdoorhub.com/table-mountain-hike-kenya/
 - Older product posts (being upgraded): lowa-renegade-evo-gtx-mid, fleece-lined-summit-pants, 15c-mummy-shape-down-sleeping-bag, coleman-c300-performance-screw-on-gas-can, the-tactical-winter-trapper-hat, saphirose-lightweight-kids-rain-poncho
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
