@@ -27,3 +27,4 @@ Format: date | category | focus keyword | slug
 2026-10-11 | Hiking Trails Guide | table mountain hike | table-mountain-hike-kenya
 2026-10-12 | Hiking Trails Guide | oldoinyo lesatima hike | oldoinyo-lesatima-hike
 2026-10-12 | Hiking Trails Guide | ol donyo sabuk hike | ol-donyo-sabuk-hike
+2026-10-12 | Hiking Gear Guides | hiking gear checklist Kenya | hiking-gear-checklist-kenya
