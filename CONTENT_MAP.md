@@ -180,7 +180,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 
 ## Already published (use for internal links; do not duplicate)
 - Shop page (never target its keyword "hiking gear shop in Nairobi"): https://hikingoutdoorhub.com/hiking-gear-shop-nairobi/
-- where to buy hiking gear in Nairobi: https://hikingoutdoorhub.com/best-hiking-gear-shop-nairobi/
+- best hiking gear (upgraded 2026-10-12; was "where to buy hiking gear in Nairobi"): https://hikingoutdoorhub.com/best-hiking-gear-shop-nairobi/
 - where to buy hiking boots in Nairobi: https://hikingoutdoorhub.com/where-to-buy-hiking-boots-in-nairobi/
 - rain jackets for hiking in Nairobi: https://hikingoutdoorhub.com/rain-jackets-for-hiking-in-nairobi/
 - camping gear in Nairobi: https://hikingoutdoorhub.com/camping-gear-nairobi/

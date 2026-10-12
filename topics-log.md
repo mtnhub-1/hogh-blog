@@ -29,3 +29,4 @@ Format: date | category | focus keyword | slug
 2026-10-12 | Hiking Trails Guide | ol donyo sabuk hike | ol-donyo-sabuk-hike
 2026-10-12 | Hiking Gear Guides | hiking gear checklist Kenya | hiking-gear-checklist-kenya
 2026-10-12 | Hiking Gear Guides | waterproof hiking boots in Nairobi | waterproof-hiking-boots-nairobi
+2026-10-12 | UPGRADE | best hiking gear | best-hiking-gear-shop-nairobi
