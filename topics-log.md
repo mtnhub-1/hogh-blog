@@ -25,3 +25,4 @@ Format: date | category | focus keyword | slug
 2026-10-11 | Hiking Gear Guides | hiking socks in Nairobi | hiking-socks-nairobi
 2026-10-11 | REFRESH | hiking jackets | hiking-jackets-essential-outdoor-gear
 2026-10-11 | Hiking Trails Guide | table mountain hike | table-mountain-hike-kenya
+2026-10-12 | Hiking Trails Guide | oldoinyo lesatima hike | oldoinyo-lesatima-hike
