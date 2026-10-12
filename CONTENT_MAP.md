@@ -42,7 +42,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 |---|---|---|---|---|---|
 | done | table mountain hike kenya | HIKE | Hiking Trails Guide | Our hike (7 Nov 2026): https://hikingoutdoorhub.com/excursions/table-mountain-day-hike/ · Rank Math focus keyword used: "table mountain hike" (slug and SEO title include "Kenya") | https://hikingoutdoorhub.com/table-mountain-hike-kenya/ |
 | done | oldoinyo lesatima hike | HIKE | Hiking Trails Guide | Dragon's Teeth. Our hike (14 Nov 2026): https://hikingoutdoorhub.com/excursions/oldoinyo-lesatima-dragons-teeth/ | https://hikingoutdoorhub.com/oldoinyo-lesatima-hike/ |
-| done | ol donyo sabuk hike | HIKE | Hiking Trails Guide | Also called Mt Kilimambogo. Our hike (21 Nov 2026): https://hikingoutdoorhub.com/excursions/mt-kilimambogo-day-hike/ || https://hikingoutdoorhub.com/ol-donyo-sabuk-hike/ |
+| done | ol donyo sabuk hike | HIKE | Hiking Trails Guide | Also called Mt Kilimambogo. Our hike (21 Nov 2026): https://hikingoutdoorhub.com/excursions/mt-kilimambogo-day-hike/ | https://hikingoutdoorhub.com/ol-donyo-sabuk-hike/ |
 | todo | hiking gear checklist Kenya (PILLAR) | NBO | Hiking Gear Guides | Hub for all products: one section per gear type, linking each category/product and each done Phase 1 post. Mention buying in Nairobi; keyword has "Kenya". | |
 | todo | waterproof hiking boots Nairobi | NBO | Hiking Gear Guides | Link the waterproof boots we stock. Differ from where-to-buy-hiking-boots-in-nairobi (focus on waterproofing: Gore-Tex vs membranes, rainy season). | |
 | todo | women's hiking shoes Nairobi | NBO | Hiking Gear Guides | Brütting Mount Bona women's, any other women's footwear. | |
