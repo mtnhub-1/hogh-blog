@@ -44,7 +44,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | done | oldoinyo lesatima hike | HIKE | Hiking Trails Guide | Dragon's Teeth. Our hike (14 Nov 2026): https://hikingoutdoorhub.com/excursions/oldoinyo-lesatima-dragons-teeth/ | https://hikingoutdoorhub.com/oldoinyo-lesatima-hike/ |
 | done | ol donyo sabuk hike | HIKE | Hiking Trails Guide | Also called Mt Kilimambogo. Our hike (21 Nov 2026): https://hikingoutdoorhub.com/excursions/mt-kilimambogo-day-hike/ | https://hikingoutdoorhub.com/ol-donyo-sabuk-hike/ |
 | done | hiking gear checklist Kenya (PILLAR) | NBO | Hiking Gear Guides | Hub for all products: one section per gear type, linking each category/product and each done Phase 1 post. Mention buying in Nairobi; keyword has "Kenya". | https://hikingoutdoorhub.com/hiking-gear-checklist-kenya/ |
-| todo | waterproof hiking boots Nairobi | NBO | Hiking Gear Guides | Link the waterproof boots we stock. Differ from where-to-buy-hiking-boots-in-nairobi (focus on waterproofing: Gore-Tex vs membranes, rainy season). | |
+| done | waterproof hiking boots Nairobi | NBO | Hiking Gear Guides | Link the waterproof boots we stock. Differ from where-to-buy-hiking-boots-in-nairobi (focus on waterproofing: Gore-Tex vs membranes, rainy season). Rank Math focus keyword used: "waterproof hiking boots in Nairobi". | https://hikingoutdoorhub.com/waterproof-hiking-boots-nairobi/ |
 | todo | women's hiking shoes Nairobi | NBO | Hiking Gear Guides | Brütting Mount Bona women's, any other women's footwear. | |
 | todo | best hiking boot brands Kenya | BRAND | Hiking Gear Guides | Hub post for all brands: one section per brand, links every [BRAND] post as they are published. | |
 | todo | headlamps Nairobi | NBO | Hiking Gear Guides | Rechargeable headlamp; Mt Kenya summit nights, camping. | |
@@ -208,6 +208,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - table mountain hike: https://hikingoutdoorhub.com/table-mountain-hike-kenya/
 - ol donyo sabuk hike: https://hikingoutdoorhub.com/ol-donyo-sabuk-hike/
 - hiking gear checklist Kenya (Phase 1 product pillar): https://hikingoutdoorhub.com/hiking-gear-checklist-kenya/
+- waterproof hiking boots in Nairobi: https://hikingoutdoorhub.com/waterproof-hiking-boots-nairobi/
 - Older product posts (being upgraded): lowa-renegade-evo-gtx-mid, fleece-lined-summit-pants, 15c-mummy-shape-down-sleeping-bag, coleman-c300-performance-screw-on-gas-can, the-tactical-winter-trapper-hat, saphirose-lightweight-kids-rain-poncho
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
