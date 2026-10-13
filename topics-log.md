@@ -32,3 +32,4 @@ Format: date | category | focus keyword | slug
 2026-10-12 | UPGRADE | best hiking gear | best-hiking-gear-shop-nairobi
 2026-10-13 | Hiking Gear Guides | hiking shoes for women in Nairobi | hiking-shoes-women-nairobi
 2026-10-13 | Hiking Gear Guides | headlamps in Nairobi | headlamps-nairobi
+2026-10-13 | Hiking Gear Guides | trekking poles in Nairobi | trekking-poles-nairobi
