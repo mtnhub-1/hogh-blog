@@ -34,3 +34,4 @@ Format: date | category | focus keyword | slug
 2026-10-13 | Hiking Gear Guides | headlamps in Nairobi | headlamps-nairobi
 2026-10-13 | Hiking Gear Guides | trekking poles in Nairobi | trekking-poles-nairobi
 2026-10-13 | Hiking Gear Guides | The North Face in Nairobi | the-north-face-nairobi
+2026-10-13 | UPGRADE | hiking jackets | hiking-jackets-essential-outdoor-gear
