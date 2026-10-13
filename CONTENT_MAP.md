@@ -49,7 +49,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | todo | best hiking boot brands Kenya | BRAND | Hiking Gear Guides | Hub post for all brands: one section per brand, links every [BRAND] post as they are published. | |
 | done | headlamps Nairobi | NBO | Hiking Gear Guides | Rechargeable headlamp; Mt Kenya summit nights, camping. Rank Math focus keyword used: "headlamps in Nairobi". | https://hikingoutdoorhub.com/headlamps-nairobi/ |
 | done | trekking poles Nairobi | NBO | Hiking Gear Guides | Ultralight foldable pole; Longonot descents, Mt Kenya. Rank Math focus keyword used: "trekking poles in Nairobi". | https://hikingoutdoorhub.com/trekking-poles-nairobi/ |
-| todo | The North Face Nairobi | BRAND | Hiking Gear Guides | Jackets, fleeces, down, packs. | |
+| done | The North Face Nairobi | BRAND | Hiking Gear Guides | Jackets, fleeces, down, packs. Rank Math focus keyword used: "The North Face in Nairobi". No TNF product links (shop search could not be checked on 2026-10-13); add product/brand links in a later upgrade if we list TNF items. | https://hikingoutdoorhub.com/the-north-face-nairobi/ |
 | todo | hydration packs Nairobi | NBO | Hiking Gear Guides | 3L hydration backpacks incl. tactical camel; bladder care. | |
 | todo | where to buy camping gas in Nairobi | NBO | Hiking Gear Guides | Cadac 500g and Coleman C300: which stove fits which cartridge, safety, carrying gas on matatus/flights (verify rules). | |
 | todo | Columbia hiking gear Nairobi | BRAND | Hiking Gear Guides | We have a Columbia brand page: /brand/columbia/. | |
@@ -212,6 +212,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - hiking shoes for women in Nairobi: https://hikingoutdoorhub.com/hiking-shoes-women-nairobi/
 - headlamps in Nairobi: https://hikingoutdoorhub.com/headlamps-nairobi/
 - trekking poles in Nairobi: https://hikingoutdoorhub.com/trekking-poles-nairobi/
+- The North Face in Nairobi: https://hikingoutdoorhub.com/the-north-face-nairobi/
 - Older product posts (being upgraded): lowa-renegade-evo-gtx-mid, fleece-lined-summit-pants, 15c-mummy-shape-down-sleeping-bag, coleman-c300-performance-screw-on-gas-can, the-tactical-winter-trapper-hat, saphirose-lightweight-kids-rain-poncho
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
