@@ -201,7 +201,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - oldoinyo lesatima hike: https://hikingoutdoorhub.com/oldoinyo-lesatima-hike/
 - hiking jackets: https://hikingoutdoorhub.com/hiking-jackets-essential-outdoor-gear/
 - rainy season hiking gear: https://hikingoutdoorhub.com/rainy-season-hiking-gear/
-- waterproof rain pants: https://hikingoutdoorhub.com/waterproof-rain-pants-for-hiking-guide/
+- waterproof rain pants (upgraded 2026-10-14): https://hikingoutdoorhub.com/waterproof-rain-pants-for-hiking-guide/
 - hiking in the rain safety tips: https://hikingoutdoorhub.com/hiking-in-the-rain-safety-tips/
 - hiking for beginners in Kenya: https://hikingoutdoorhub.com/hiking-for-beginners-in-kenya/
 - what to wear hiking in Kenya: https://hikingoutdoorhub.com/what-to-wear-hiking-in-kenya/
