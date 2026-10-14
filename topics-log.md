@@ -37,3 +37,4 @@ Format: date | category | focus keyword | slug
 2026-10-13 | UPGRADE | hiking jackets | hiking-jackets-essential-outdoor-gear
 2026-10-14 | Hiking Gear Guides | hiking boot brands | best-hiking-boot-brands-kenya
 2026-10-14 | Hiking Gear Guides | hydration packs in Nairobi | hydration-packs-nairobi
+2026-10-14 | Hiking Gear Guides | camping gas in Nairobi | camping-gas-nairobi
