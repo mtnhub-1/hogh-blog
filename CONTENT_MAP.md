@@ -52,7 +52,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | done | The North Face Nairobi | BRAND | Hiking Gear Guides | Jackets, fleeces, down, packs. Rank Math focus keyword used: "The North Face in Nairobi". No TNF product links (shop search could not be checked on 2026-10-13); add product/brand links in a later upgrade if we list TNF items. | https://hikingoutdoorhub.com/the-north-face-nairobi/ |
 | done | hydration packs Nairobi | NBO | Hiking Gear Guides | 3L hydration backpacks incl. tactical camel; bladder care. Rank Math focus keyword used: "hydration packs in Nairobi". Written 2026-10-14 without a live sitemap/category check (site fetch unavailable that run): product links reused from recent posts; no shop category link — add the hydration/backpacks category link in a later upgrade. | https://hikingoutdoorhub.com/hydration-packs-nairobi/ |
 | done | where to buy camping gas in Nairobi | NBO | Hiking Gear Guides | Cadac 500g and Coleman C300: which stove fits which cartridge, safety, carrying gas on matatus/flights (verify rules). Rank Math focus keyword used: "camping gas in Nairobi". Written 2026-10-14 without a live sitemap/category check (site fetch unavailable that run): no Cadac/Coleman product links or gas category link — add them in a later upgrade. | https://hikingoutdoorhub.com/camping-gas-nairobi/ |
-| todo | Columbia hiking gear Nairobi | BRAND | Hiking Gear Guides | We have a Columbia brand page: /brand/columbia/. | |
+| done | Columbia hiking gear Nairobi | BRAND | Hiking Gear Guides | We have a Columbia brand page: /brand/columbia/. Rank Math focus keyword used: "Columbia hiking gear in Nairobi". Written 2026-10-14 without a live sitemap/shop-search check (site fetch unavailable that run): links the Columbia brand page and jacket categories but no individual Columbia product links; add them in a later upgrade if we list Columbia items. | https://hikingoutdoorhub.com/columbia-hiking-gear-nairobi/ |
 | todo | fleece jackets Nairobi | NBO | Hiking Gear Guides | Soft-shell fleece; layering for Aberdares, Mt Kenya. | |
 | todo | down jackets Nairobi | NBO | Hiking Gear Guides | Women's packable down jacket, winter zip-up; down vs synthetic, care. | |
 | todo | Salomon hiking shoes Kenya | BRAND | Hiking Gear Guides | X Ultra, Quest; trail runners vs boots. | |
@@ -217,6 +217,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - hiking boot brands (brand pillar): https://hikingoutdoorhub.com/best-hiking-boot-brands-kenya/
 - hydration packs in Nairobi: https://hikingoutdoorhub.com/hydration-packs-nairobi/
 - camping gas in Nairobi: https://hikingoutdoorhub.com/camping-gas-nairobi/
+- Columbia hiking gear in Nairobi: https://hikingoutdoorhub.com/columbia-hiking-gear-nairobi/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
