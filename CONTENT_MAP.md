@@ -46,7 +46,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | done | hiking gear checklist Kenya (PILLAR) | NBO | Hiking Gear Guides | Hub for all products: one section per gear type, linking each category/product and each done Phase 1 post. Mention buying in Nairobi; keyword has "Kenya". | https://hikingoutdoorhub.com/hiking-gear-checklist-kenya/ |
 | done | waterproof hiking boots Nairobi | NBO | Hiking Gear Guides | Link the waterproof boots we stock. Differ from where-to-buy-hiking-boots-in-nairobi (focus on waterproofing: Gore-Tex vs membranes, rainy season). Rank Math focus keyword used: "waterproof hiking boots in Nairobi". | https://hikingoutdoorhub.com/waterproof-hiking-boots-nairobi/ |
 | done | women's hiking shoes Nairobi | NBO | Hiking Gear Guides | Brütting Mount Bona women's, any other women's footwear. Rank Math focus keyword used: "hiking shoes for women in Nairobi". | https://hikingoutdoorhub.com/hiking-shoes-women-nairobi/ |
-| todo | best hiking boot brands Kenya | BRAND | Hiking Gear Guides | Hub post for all brands: one section per brand, links every [BRAND] post as they are published. | |
+| done | best hiking boot brands Kenya | BRAND | Hiking Gear Guides | Hub post for all brands: one section per brand, links every [BRAND] post as they are published. Rank Math focus keyword used: "hiking boot brands". Links the-north-face-nairobi; refresh to link each new [BRAND] post. Written 2026-10-14 without a live sitemap/brand-page check (site fetch unavailable that run): product/brand links reused from recent posts and this map. | https://hikingoutdoorhub.com/best-hiking-boot-brands-kenya/ |
 | done | headlamps Nairobi | NBO | Hiking Gear Guides | Rechargeable headlamp; Mt Kenya summit nights, camping. Rank Math focus keyword used: "headlamps in Nairobi". | https://hikingoutdoorhub.com/headlamps-nairobi/ |
 | done | trekking poles Nairobi | NBO | Hiking Gear Guides | Ultralight foldable pole; Longonot descents, Mt Kenya. Rank Math focus keyword used: "trekking poles in Nairobi". | https://hikingoutdoorhub.com/trekking-poles-nairobi/ |
 | done | The North Face Nairobi | BRAND | Hiking Gear Guides | Jackets, fleeces, down, packs. Rank Math focus keyword used: "The North Face in Nairobi". No TNF product links (shop search could not be checked on 2026-10-13); add product/brand links in a later upgrade if we list TNF items. | https://hikingoutdoorhub.com/the-north-face-nairobi/ |
@@ -214,6 +214,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - trekking poles in Nairobi: https://hikingoutdoorhub.com/trekking-poles-nairobi/
 - The North Face in Nairobi: https://hikingoutdoorhub.com/the-north-face-nairobi/
 - Older product posts (being upgraded): lowa-renegade-evo-gtx-mid, fleece-lined-summit-pants, 15c-mummy-shape-down-sleeping-bag, coleman-c300-performance-screw-on-gas-can, the-tactical-winter-trapper-hat, saphirose-lightweight-kids-rain-poncho
+- hiking boot brands (brand pillar): https://hikingoutdoorhub.com/best-hiking-boot-brands-kenya/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
