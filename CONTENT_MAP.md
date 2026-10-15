@@ -55,7 +55,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | done | Columbia hiking gear Nairobi | BRAND | Hiking Gear Guides | We have a Columbia brand page: /brand/columbia/. Rank Math focus keyword used: "Columbia hiking gear in Nairobi". Written 2026-10-14 without a live sitemap/shop-search check (site fetch unavailable that run): links the Columbia brand page and jacket categories but no individual Columbia product links; add them in a later upgrade if we list Columbia items. | https://hikingoutdoorhub.com/columbia-hiking-gear-nairobi/ |
 | done | fleece jackets Nairobi | NBO | Hiking Gear Guides | Soft-shell fleece; layering for Aberdares, Mt Kenya. Rank Math focus keyword used: "fleece jackets in Nairobi". Written 2026-10-15 without a live sitemap/category check (site fetch unavailable that run): links the hiking-jacket category but no individual fleece product link; add the fleece soft-shell jacket product link in a later upgrade. | https://hikingoutdoorhub.com/fleece-jackets-nairobi/ |
 | todo | down jackets Nairobi | NBO | Hiking Gear Guides | Women's packable down jacket, winter zip-up; down vs synthetic, care. | |
-| todo | Salomon hiking shoes Kenya | BRAND | Hiking Gear Guides | X Ultra, Quest; trail runners vs boots. | |
+| done | Salomon hiking shoes Kenya | BRAND | Hiking Gear Guides | X Ultra, Quest; trail runners vs boots. Rank Math focus keyword used: "Salomon hiking shoes". Written 2026-10-15 without a live sitemap/shop-search check (site fetch unavailable that run): no Salomon product or brand-page links; says stock changes and invites WhatsApp. Add Salomon product/brand links in a later upgrade if we list Salomon items. Down jackets row skipped today (fleece post same day). | https://hikingoutdoorhub.com/salomon-hiking-shoes-kenya/ |
 | todo | men's hiking boots Nairobi | NBO | Hiking Gear Guides | Overview of all men's boots we stock, linking each. | |
 | todo | hiking gloves Nairobi | NBO | Hiking Gear Guides | Thinsulate waterproof gloves, fleece-lined mittens; summit cold. | |
 | todo | Keen hiking boots Kenya | BRAND | Hiking Gear Guides | Brand page /brand/keen/; differ from the Keen Targhee Mid model row. | |
@@ -219,6 +219,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - camping gas in Nairobi: https://hikingoutdoorhub.com/camping-gas-nairobi/
 - Columbia hiking gear in Nairobi: https://hikingoutdoorhub.com/columbia-hiking-gear-nairobi/
 - fleece jackets in Nairobi: https://hikingoutdoorhub.com/fleece-jackets-nairobi/
+- Salomon hiking shoes: https://hikingoutdoorhub.com/salomon-hiking-shoes-kenya/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
