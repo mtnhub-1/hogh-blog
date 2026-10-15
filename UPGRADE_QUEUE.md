@@ -13,7 +13,7 @@ Scores below are from tools/rankmath_score.py with the Content AI module ON (cur
 | done 2026-10-12 (score 95) | best-hiking-gear-shop-nairobi | best hiking gear | 83 | Focus keyword in URL 0/5; Content length 4/8; Images / media 2/6; NOTE: change focus keyword to "best hiking gear" (it must appear in the URL; the old keyword does not). Make it a guide to the best hiking gear to buy in Nairobi; must not target "hiking gear shop in Nairobi". |
 | done 2026-10-13 (score 95) | hiking-jackets-essential-outdoor-gear | hiking jackets | 88 | Content length 4/8; Images / media 2/6 |
 | done 2026-10-14 (score 95) | waterproof-rain-pants-for-hiking-guide | waterproof rain pants | 88 | Content length 4/8; Images / media 2/6 |
-| todo | where-to-buy-hiking-boots-in-nairobi | where to buy hiking boots in Nairobi | 88 | Content length 4/8; Images / media 2/6 |
+| done 2026-10-15 (score 95) | where-to-buy-hiking-boots-in-nairobi | where to buy hiking boots in Nairobi | 88 | Content length 4/8; Images / media 2/6 |
 | todo | best-day-hikes-near-nairobi-for-beginners | best day hikes near Nairobi | 89 | Content length 5/8; Images / media 2/6 |
 | todo | camping-gear-nairobi | camping gear in Nairobi | 89 | Content length 5/8; Images / media 2/6 |
 | todo | elephant-hill-hike | elephant hill hike | 89 | Content length 5/8; Images / media 2/6 |

@@ -44,3 +44,4 @@ Format: date | category | focus keyword | slug
 2026-10-15 | Hiking Gear Guides | Salomon hiking shoes | salomon-hiking-shoes-kenya
 2026-10-15 | Hiking Gear Guides | hiking gloves in Nairobi | hiking-gloves-nairobi
 2026-10-15 | Hiking Gear Guides | leg gaiters in Nairobi | leg-gaiters-nairobi
+2026-10-15 | UPGRADE | where to buy hiking boots in Nairobi | where-to-buy-hiking-boots-in-nairobi
