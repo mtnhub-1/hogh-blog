@@ -57,7 +57,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | todo | down jackets Nairobi | NBO | Hiking Gear Guides | Women's packable down jacket, winter zip-up; down vs synthetic, care. | |
 | done | Salomon hiking shoes Kenya | BRAND | Hiking Gear Guides | X Ultra, Quest; trail runners vs boots. Rank Math focus keyword used: "Salomon hiking shoes". Written 2026-10-15 without a live sitemap/shop-search check (site fetch unavailable that run): no Salomon product or brand-page links; says stock changes and invites WhatsApp. Add Salomon product/brand links in a later upgrade if we list Salomon items. Down jackets row skipped today (fleece post same day). | https://hikingoutdoorhub.com/salomon-hiking-shoes-kenya/ |
 | todo | men's hiking boots Nairobi | NBO | Hiking Gear Guides | Overview of all men's boots we stock, linking each. | |
-| todo | hiking gloves Nairobi | NBO | Hiking Gear Guides | Thinsulate waterproof gloves, fleece-lined mittens; summit cold. | |
+| done | hiking gloves Nairobi | NBO | Hiking Gear Guides | Thinsulate waterproof gloves, fleece-lined mittens; summit cold. Rank Math focus keyword used: "hiking gloves in Nairobi". Links both glove products and the mittens-and-waterproof-gloves category. Down jackets and men's hiking boots rows skipped again on 2026-10-15 (fleece and Salomon posts same day); they are next in line. | https://hikingoutdoorhub.com/hiking-gloves-nairobi/ |
 | todo | Keen hiking boots Kenya | BRAND | Hiking Gear Guides | Brand page /brand/keen/; differ from the Keen Targhee Mid model row. | |
 | todo | Keen Targhee Mid waterproof | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | todo | leg gaiters Nairobi | NBO | Hiking Gear Guides | Both gaiter products; mud, Aberdares bogs, Mt Kenya scree. | |
@@ -220,6 +220,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - Columbia hiking gear in Nairobi: https://hikingoutdoorhub.com/columbia-hiking-gear-nairobi/
 - fleece jackets in Nairobi: https://hikingoutdoorhub.com/fleece-jackets-nairobi/
 - Salomon hiking shoes: https://hikingoutdoorhub.com/salomon-hiking-shoes-kenya/
+- hiking gloves in Nairobi: https://hikingoutdoorhub.com/hiking-gloves-nairobi/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
