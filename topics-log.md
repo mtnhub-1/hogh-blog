@@ -40,3 +40,4 @@ Format: date | category | focus keyword | slug
 2026-10-14 | Hiking Gear Guides | camping gas in Nairobi | camping-gas-nairobi
 2026-10-14 | Hiking Gear Guides | Columbia hiking gear in Nairobi | columbia-hiking-gear-nairobi
 2026-10-14 | UPGRADE | waterproof rain pants | waterproof-rain-pants-for-hiking-guide
+2026-10-15 | Hiking Gear Guides | fleece jackets in Nairobi | fleece-jackets-nairobi
