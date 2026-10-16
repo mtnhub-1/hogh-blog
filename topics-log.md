@@ -48,3 +48,4 @@ Format: date | category | focus keyword | slug
 2026-10-16 | Hiking Gear Guides | down jackets in Nairobi | down-jackets-nairobi
 2026-10-16 | Hiking Gear Guides | hiking boots for men in Nairobi | hiking-boots-men-nairobi
 2026-10-16 | Hiking Gear Guides | Deuter backpacks | deuter-backpacks-kenya
+2026-10-16 | Hiking Gear Guides | balaclava in Nairobi | balaclava-nairobi

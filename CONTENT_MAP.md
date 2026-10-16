@@ -62,7 +62,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | todo | Keen Targhee Mid waterproof | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | done | leg gaiters Nairobi | NBO | Hiking Gear Guides | Both gaiter products; mud, Aberdares bogs, Mt Kenya scree. Rank Math focus keyword used: "leg gaiters in Nairobi". Written 2026-10-15 without a live sitemap/category check (site fetch unavailable that run): links the waterproof-leg-gaiters product and the /product-category/accessories/ parent category (not verified); add the second gaiter product and the exact gaiter category in a later upgrade. Down jackets, men's hiking boots, Keen and Keen Targhee rows skipped today (fleece/Salomon posts same day); they are next in line. | https://hikingoutdoorhub.com/leg-gaiters-nairobi/ |
 | done | Deuter backpacks Kenya | BRAND | Hiking Gear Guides | Daypacks, Aircontact/Futura lines, hydration compatibility. Rank Math focus keyword used: "Deuter backpacks" (slug and SEO title include "Kenya"). Written 2026-10-16 without a live sitemap/shop-search check (site fetch unavailable that run): no Deuter product or brand-page links; says big-brand stock changes and invites WhatsApp; links the 28L day backpack, both 3L hydration packs and the headlamp. Add Deuter product/brand links in a later upgrade if we list Deuter items. Keen and Keen Targhee rows skipped today (men's hiking boots post same day); they are next in line. | https://hikingoutdoorhub.com/deuter-backpacks-kenya/ |
-| todo | balaclava Nairobi | NBO | Hiking Gear Guides | Fleece-lined balaclava; cold summits, bikers too. | |
+| done | balaclava Nairobi | NBO | Hiking Gear Guides | Fleece-lined balaclava; cold summits, bikers too. Rank Math focus keyword used: "balaclava in Nairobi". Written 2026-10-16 without a live sitemap/category check (site fetch unavailable that run): links the winter-fleece-lined-balaclava, trapper hat, Thinsulate gloves, mittens and headlamp products and the /product-category/accessories/ parent category (not verified); add the exact headwear category in a later upgrade. Keen and Keen Targhee rows skipped today (men's hiking boots post same day); they are next in line. | https://hikingoutdoorhub.com/balaclava-nairobi/ |
 | todo | Quechua MH100 hiking boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | todo | Scarpa hiking boots Kenya | BRAND | Hiking Gear Guides | Differ from the Scarpa R-Evolution model row. | |
 | todo | hiking hats Nairobi | NBO | Hiking Gear Guides | Wide-brim sun hat and winter trapper hat; sun at altitude vs cold. Differ from the-tactical-winter-trapper-hat post. | |
@@ -225,6 +225,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - down jackets in Nairobi: https://hikingoutdoorhub.com/down-jackets-nairobi/
 - hiking boots for men in Nairobi: https://hikingoutdoorhub.com/hiking-boots-men-nairobi/
 - Deuter backpacks: https://hikingoutdoorhub.com/deuter-backpacks-kenya/
+- balaclava in Nairobi: https://hikingoutdoorhub.com/balaclava-nairobi/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
