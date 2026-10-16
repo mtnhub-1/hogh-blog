@@ -190,7 +190,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - thermal wear Nairobi: https://hikingoutdoorhub.com/thermal-wear-nairobi/
 - sleeping bags in Nairobi: https://hikingoutdoorhub.com/sleeping-bags-nairobi/
 - hiking socks Nairobi: https://hikingoutdoorhub.com/hiking-socks-nairobi/
-- best day hikes near Nairobi (day-hike pillar): https://hikingoutdoorhub.com/best-day-hikes-near-nairobi-for-beginners/
+- best day hikes near Nairobi (day-hike pillar; upgraded 2026-10-16, now links Longonot, Elephant Hill, Ol Donyo Sabuk, Table Mountain and Oldoinyo Lesatima guides plus our three hike event pages; written without a live sitemap/hike-calendar check as site fetch was unavailable that run): https://hikingoutdoorhub.com/best-day-hikes-near-nairobi-for-beginners/
 - Mt Longonot hike: https://hikingoutdoorhub.com/mt-longonot-hike/
 - Elephant Hill hike: https://hikingoutdoorhub.com/elephant-hill-hike/
 - Mt Kenya hiking guide (Mt Kenya pillar): https://hikingoutdoorhub.com/mt-kenya-hiking-guide/
