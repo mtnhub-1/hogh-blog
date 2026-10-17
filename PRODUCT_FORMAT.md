@@ -22,6 +22,6 @@ the owner adds those and publishes manually.
 
 - `category` is optional and must match an existing product category name exactly; unknown names are skipped (no new categories are created).
 - `image_alts` are applied when the owner saves the draft after adding photos: main image gets the first, gallery images the next, and only empty alts are filled. They also show in a side box on the product edit screen.
-- Put `<!--hogh-product-image-->` once in `description` (after the second paragraph). When the owner sets a main photo and saves, it is replaced with that photo so Rank Math's image test passes.
+- Put three image markers in `description`: `<!--hogh-product-image-->` after the second paragraph, `<!--hogh-product-image-2-->` after the Benefits list, `<!--hogh-product-image-3-->` before the Hikes CTA. When the owner saves with a main photo and 2 gallery photos, they become those photos (main, gallery 1, gallery 2), giving Rank Math the 4+ images it needs for full image points. Markers stay invisible until their photo exists.
 - If a product with the same slug already exists (any status, including trash), the file is skipped.
 - Content rules are in `PRODUCT_TEMPLATE.md`.

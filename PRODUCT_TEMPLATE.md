@@ -22,10 +22,11 @@ Stock is mostly thrifted (pre-owned) quality gear, with some new items; don't ca
 3. `<!--hogh-product-image-->` marker on its own line.
 4. H2 "Why Choose [keyword]?" + 2 paragraphs, with an internal link to a related product on the site.
 5. Key Features info box (blue).
-6. H2 "Benefits" + one-line intro paragraph + bullet list (bold labels allowed in bullets only).
+6. H2 "Benefits" + one-line intro paragraph + bullet list (bold labels allowed in bullets only), then `<!--hogh-product-image-2-->`.
 7. H2 "Perfect For" + bullet list.
 8. H2 "Where to Use [keyword] in Kenya" + 1-2 paragraphs naming real Kenyan trails/places.
 9. Closing context paragraph with ONE dofollow external authority link (`target="_blank" rel="noopener"`, never nofollow).
+9b. `<!--hogh-product-image-3-->` on its own line.
 10. Hikes CTA box (green) linking to https://hikingoutdoorhub.com/hike-with-us/
 11. H2 "Frequently Asked Questions" + 4 Q&As as H3; keyword in at least one H3.
 12. WhatsApp CTA box (orange, green button) with a product-specific pre-filled message.
@@ -36,7 +37,7 @@ Stock is mostly thrifted (pre-owned) quality gear, with some new items; don't ca
 - No bold or strong tags inside paragraphs.
 - Paragraphs under 120 words.
 - At least one internal link and one dofollow external link.
-- Check before committing: copy the file to a scratch JSON with `content` = `description` (marker swapped for a dummy `<img alt="[keyword]">`, since the owner's photo replaces it), then run `python3 tools/rankmath_score.py <scratch.json>`. It must report 93+.
+- Check before committing: copy the file to a scratch JSON with `content` = `description` (each image marker swapped for a dummy `<img alt="[keyword]">`, since the owner's photos replace them), then run `python3 tools/rankmath_score.py <scratch.json>`. It must report 93+.
 
 ## Boxes (exact HTML)
 

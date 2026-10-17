@@ -14,8 +14,8 @@
  *
  * Extras when you save a draft after adding photos:
  *  - Fills in empty image alt text from the listing's suggested alt texts (main image first, then gallery).
- *  - Replaces the <!--hogh-product-image--> marker in the description with your main photo,
- *    so Rank Math's "content has images" test passes.
+ *  - Replaces the image markers in the description with your photos (main photo, then the first two
+ *    gallery photos), so Rank Math's image test gets full points.
  *
  * Run it on demand (admins only): Tools > Product Sync > Sync now, or visit /wp-admin/?hogh_product_sync=1
  */
@@ -204,37 +204,44 @@ add_action( 'save_post', function ( $post_id, $post ) {
 	if ( ! get_post_meta( $post_id, '_hogh_source_file', true ) ) {
 		return; // only products created by this sync
 	}
-	$thumb = (int) get_post_thumbnail_id( $post_id );
+	$thumb   = (int) get_post_thumbnail_id( $post_id );
+	$gallery = array_values( array_filter( array_map( 'intval', explode( ',', (string) get_post_meta( $post_id, '_product_image_gallery', true ) ) ) ) );
+	$images  = array_values( array_filter( array_merge( array( $thumb ), $gallery ) ) );
 
 	// 1. Alt text: main image gets alt 1, gallery images get alt 2, 3, ... Only empty alts are filled.
 	$alts = get_post_meta( $post_id, '_hogh_image_alts', true );
 	if ( is_array( $alts ) && $alts ) {
-		$images = array_filter( array_merge(
-			array( $thumb ),
-			array_map( 'intval', explode( ',', (string) get_post_meta( $post_id, '_product_image_gallery', true ) ) )
-		) );
-		$i = 0;
-		foreach ( array_values( $images ) as $img ) {
+		foreach ( $images as $i => $img ) {
 			if ( '' === trim( (string) get_post_meta( $img, '_wp_attachment_image_alt', true ) ) ) {
 				update_post_meta( $img, '_wp_attachment_image_alt', $alts[ min( $i, count( $alts ) - 1 ) ] );
 			}
-			$i++;
 		}
 	}
 
-	// 2. Swap the image marker in the description for the main photo.
-	if ( $thumb && false !== strpos( $post->post_content, HOGH_PS_MARKER ) ) {
-		$src = wp_get_attachment_image_url( $thumb, 'large' );
-		if ( $src ) {
-			$alt = get_post_meta( $thumb, '_wp_attachment_image_alt', true );
-			$img = '<img src="' . esc_url( $src ) . '" alt="' . esc_attr( $alt ) . '" style="width:100%; height:auto; border-radius:8px; margin:20px 0;" />';
-			$busy = true;
-			wp_update_post( array(
-				'ID'           => $post_id,
-				'post_content' => str_replace( HOGH_PS_MARKER, $img, $post->post_content ),
-			) );
-			$busy = false;
+	// 2. Swap the image markers in the description for your photos:
+	//    <!--hogh-product-image--> = main photo, <!--hogh-product-image-2--> = 1st gallery photo,
+	//    <!--hogh-product-image-3--> = 2nd gallery photo. A marker stays hidden until its photo exists.
+	$map = array(
+		HOGH_PS_MARKER                => $thumb,
+		'<!--hogh-product-image-2-->' => $gallery[0] ?? 0,
+		'<!--hogh-product-image-3-->' => $gallery[1] ?? 0,
+	);
+	$content = $post->post_content;
+	foreach ( $map as $marker => $att ) {
+		if ( ! $att || false === strpos( $content, $marker ) ) {
+			continue;
 		}
+		$src = wp_get_attachment_image_url( $att, 'large' );
+		if ( $src ) {
+			$alt     = get_post_meta( $att, '_wp_attachment_image_alt', true );
+			$img     = '<img src="' . esc_url( $src ) . '" alt="' . esc_attr( $alt ) . '" style="width:100%; height:auto; border-radius:8px; margin:20px 0;" />';
+			$content = str_replace( $marker, $img, $content );
+		}
+	}
+	if ( $content !== $post->post_content ) {
+		$busy = true;
+		wp_update_post( array( 'ID' => $post_id, 'post_content' => $content ) );
+		$busy = false;
 	}
 }, 99, 2 );
 
