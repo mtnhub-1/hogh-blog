@@ -65,7 +65,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | done | balaclava Nairobi | NBO | Hiking Gear Guides | Fleece-lined balaclava; cold summits, bikers too. Rank Math focus keyword used: "balaclava in Nairobi". Written 2026-10-16 without a live sitemap/category check (site fetch unavailable that run): links the winter-fleece-lined-balaclava, trapper hat, Thinsulate gloves, mittens and headlamp products and the /product-category/accessories/ parent category (not verified); add the exact headwear category in a later upgrade. Keen and Keen Targhee rows skipped today (men's hiking boots post same day); they are next in line. | https://hikingoutdoorhub.com/balaclava-nairobi/ |
 | todo | Quechua MH100 hiking boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | todo | Scarpa hiking boots Kenya | BRAND | Hiking Gear Guides | Differ from the Scarpa R-Evolution model row. | |
-| todo | hiking hats Nairobi | NBO | Hiking Gear Guides | Wide-brim sun hat and winter trapper hat; sun at altitude vs cold. Differ from the-tactical-winter-trapper-hat post. | |
+| done | hiking hats Nairobi | NBO | Hiking Gear Guides | Wide-brim sun hat and winter trapper hat; sun at altitude vs cold. Differ from the-tactical-winter-trapper-hat post. Rank Math focus keyword used: "hiking hats in Nairobi". Written 2026-10-17 without a live sitemap/category/hike-calendar/media check (site fetch unavailable that run): links the wide-brim safari sun hat, winter trapper hat and fleece-lined balaclava products and the /product-category/accessories/ parent category (not verified); featured image is the existing Tactical-bucket-hat.jpg product photo. Add the exact headwear category and UV400 sunglasses link in a later upgrade. Keen Targhee Mid, Quechua MH100 and Scarpa rows skipped today (Keen boots post same day); they are next in line. | https://hikingoutdoorhub.com/hiking-hats-nairobi/ |
 | todo | hiking sunglasses Kenya | NBO | Hiking Gear Guides | UV400 sunglasses; equator UV, snow glare on Kilimanjaro. | |
 | todo | Adidas Terrex Kenya | BRAND | Hiking Gear Guides | Terrex shoes and jackets. | |
 | todo | Quechua Forclaz 500 waterproof boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
@@ -227,6 +227,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - Deuter backpacks: https://hikingoutdoorhub.com/deuter-backpacks-kenya/
 - balaclava in Nairobi: https://hikingoutdoorhub.com/balaclava-nairobi/
 - Keen hiking boots: https://hikingoutdoorhub.com/keen-hiking-boots-kenya/
+- hiking hats in Nairobi: https://hikingoutdoorhub.com/hiking-hats-nairobi/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
