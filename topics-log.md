@@ -50,3 +50,4 @@ Format: date | category | focus keyword | slug
 2026-10-16 | Hiking Gear Guides | Deuter backpacks | deuter-backpacks-kenya
 2026-10-16 | Hiking Gear Guides | balaclava in Nairobi | balaclava-nairobi
 2026-10-16 | UPGRADE | best day hikes near Nairobi | best-day-hikes-near-nairobi-for-beginners
+2026-10-17 | Hiking Gear Guides | Keen hiking boots | keen-hiking-boots-kenya
