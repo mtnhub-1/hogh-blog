@@ -183,7 +183,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - best hiking gear (upgraded 2026-10-12; was "where to buy hiking gear in Nairobi"): https://hikingoutdoorhub.com/best-hiking-gear-shop-nairobi/
 - where to buy hiking boots in Nairobi (upgraded 2026-10-15; written without a live sitemap check as site fetch was unavailable that run: links Lowa/Keen/Quechua brand pages but no boots category page; add the boots category link in a later upgrade): https://hikingoutdoorhub.com/where-to-buy-hiking-boots-in-nairobi/
 - rain jackets for hiking in Nairobi: https://hikingoutdoorhub.com/rain-jackets-for-hiking-in-nairobi/
-- camping gear in Nairobi: https://hikingoutdoorhub.com/camping-gear-nairobi/
+- camping gear in Nairobi (upgraded 2026-10-17; written without a live sitemap/category/media check as site fetch was unavailable that run: links headlamp, 3L camel hydration pack, 28L backpack, trapper hat, Thinsulate gloves and merino socks products but no camping/sleeping-bag category or sleeping bag/gas product links; add those in a later upgrade): https://hikingoutdoorhub.com/camping-gear-nairobi/
 - hiking backpacks Nairobi: https://hikingoutdoorhub.com/hiking-backpacks-nairobi/
 - thrifted outdoor gear Nairobi: https://hikingoutdoorhub.com/thrifted-outdoor-gear-nairobi/
 - Mt Kenya gear in Nairobi: https://hikingoutdoorhub.com/mt-kenya-gear-nairobi/
