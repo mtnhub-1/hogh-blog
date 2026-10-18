@@ -71,7 +71,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | todo | Quechua Forclaz 500 waterproof boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
 | done | quick dry shirts Nairobi | NBO | Hiking Gear Guides | Long and short sleeve quick-dry tees; cotton vs synthetic. Rank Math focus keyword used: "quick dry shirts in Nairobi". Written 2026-10-18 without a live sitemap/category/hike-calendar/media check (site fetch unavailable that run): no quick-dry T-shirt product link or shirts category link (slugs unknown); links merino socks, wide-brim sun hat, rain pants and 28L backpack products plus /shop/. Stock Unsplash images only. Add the quick-dry T-shirt product links and clothing category in a later upgrade. Quechua MH100, Scarpa and Forclaz 500 rows skipped today (Keen Targhee boots post same day); they are next in line. | https://hikingoutdoorhub.com/quick-dry-shirts-nairobi/ |
 | todo | Lowa hiking boots Kenya | BRAND | Hiking Gear Guides | Brand page /brand/lowa/; differ from the lowa-renegade-evo-gtx-mid post. | |
-| todo | zip off hiking pants Nairobi | NBO | Hiking Gear Guides | Zip-off cargo pants; convertible trousers for Kenyan weather. | |
+| done | zip off hiking pants Nairobi | NBO | Hiking Gear Guides | Zip-off cargo pants; convertible trousers for Kenyan weather. Rank Math focus keyword used: "zip off hiking pants in Nairobi". Written 2026-10-18 without a live sitemap/category/hike-calendar/media check (site fetch unavailable that run): no zip-off cargo pants product link or trousers category link (slugs unknown); links rain pants, leg gaiters, merino socks and Quechua waterproof boot products plus /shop/. Stock Unsplash images only. Add the zip-off cargo pants product link and clothing/trousers category in a later upgrade. Quechua MH100, Scarpa, Forclaz 500 and Lowa rows skipped today (Keen Targhee boots post same day); they are next in line. | https://hikingoutdoorhub.com/zip-off-hiking-pants-nairobi/ |
 | todo | rain poncho Kenya | NBO | Hiking Gear Guides | Adult poncho (+ kids poncho); poncho vs rain jacket. Differ from saphirose kids poncho post. | |
 | todo | Merrell hiking shoes Kenya | BRAND | Hiking Gear Guides | Moab and others. | |
 | todo | Scarpa R-Evolution boots | MODEL | Hiking Gear Guides | Specs-based model guide. | |
@@ -232,6 +232,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - Adidas Terrex: https://hikingoutdoorhub.com/adidas-terrex-kenya/
 - Keen Targhee Mid: https://hikingoutdoorhub.com/keen-targhee-mid-waterproof/
 - quick dry shirts in Nairobi: https://hikingoutdoorhub.com/quick-dry-shirts-nairobi/
+- zip off hiking pants in Nairobi: https://hikingoutdoorhub.com/zip-off-hiking-pants-nairobi/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
