@@ -58,3 +58,4 @@ Format: date | category | focus keyword | slug
 2026-10-18 | Hiking Gear Guides | Keen Targhee Mid | keen-targhee-mid-waterproof
 2026-10-18 | Hiking Gear Guides | quick dry shirts in Nairobi | quick-dry-shirts-nairobi
 2026-10-18 | Hiking Gear Guides | zip off hiking pants in Nairobi | zip-off-hiking-pants-nairobi
+2026-10-18 | Hiking Gear Guides | rain poncho in Kenya | rain-poncho-kenya
