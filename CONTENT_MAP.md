@@ -192,7 +192,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - hiking socks Nairobi: https://hikingoutdoorhub.com/hiking-socks-nairobi/
 - best day hikes near Nairobi (day-hike pillar; upgraded 2026-10-16, now links Longonot, Elephant Hill, Ol Donyo Sabuk, Table Mountain and Oldoinyo Lesatima guides plus our three hike event pages; written without a live sitemap/hike-calendar check as site fetch was unavailable that run): https://hikingoutdoorhub.com/best-day-hikes-near-nairobi-for-beginners/
 - Mt Longonot hike: https://hikingoutdoorhub.com/mt-longonot-hike/
-- Elephant Hill hike: https://hikingoutdoorhub.com/elephant-hill-hike/
+- Elephant Hill hike (upgraded 2026-10-18; written without a live sitemap/hike-calendar/media check as site fetch was unavailable that run: product links reused from recent posts (Quechua waterproof boot, merino socks, gaiters, rain pants, Thinsulate gloves, trekking pole, 3L camel pack); stock Unsplash images; Elephant Hill not confirmed on our hike calendar, so no date given): https://hikingoutdoorhub.com/elephant-hill-hike/
 - Mt Kenya hiking guide (Mt Kenya pillar): https://hikingoutdoorhub.com/mt-kenya-hiking-guide/
 - what to pack for hiking Mt Kenya: https://hikingoutdoorhub.com/what-to-pack-for-hiking-mt-kenya/
 - Kilimanjaro gear checklist: https://hikingoutdoorhub.com/kilimanjaro-gear-checklist/
