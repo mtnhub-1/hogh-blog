@@ -55,3 +55,4 @@ Format: date | category | focus keyword | slug
 2026-10-17 | Hiking Gear Guides | hiking sunglasses in Kenya | hiking-sunglasses-kenya
 2026-10-17 | Hiking Gear Guides | Adidas Terrex | adidas-terrex-kenya
 2026-10-17 | UPGRADE | camping gear in Nairobi | camping-gear-nairobi
+2026-10-18 | Hiking Gear Guides | Keen Targhee Mid | keen-targhee-mid-waterproof
