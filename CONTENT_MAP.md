@@ -82,7 +82,7 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | todo | Quechua Nairobi | BRAND | Hiking Gear Guides | Decathlon's hiking brand; brand page /brand/quechua/. | |
 | todo | Brütting Mount Bona hiking boots | MODEL | Hiking Gear Guides | Men's and women's versions. | |
 | todo | Regatta waterproof jacket | MODEL | Hiking Gear Guides | Specs-based model guide; differ from rain-jackets-for-hiking-in-nairobi. | |
-| todo | Jack Wolfskin Kenya | BRAND | Hiking Gear Guides |  | |
+| done | Jack Wolfskin Kenya | BRAND | Hiking Gear Guides | Rank Math focus keyword used: "Jack Wolfskin" (slug and SEO title include "Kenya"). Written 2026-10-19 without a live sitemap/shop-search/hike-calendar/media check (site fetch unavailable that run): no Jack Wolfskin product or brand-page links; says thrifted big-brand stock changes and invites WhatsApp; links the rain-jackets category, Regatta waterproof hooded jacket (slug from the owner's poncho draft, not re-verified), rain pants, Thinsulate gloves and 28L backpack. Texapore ratings from jack-wolfskin.co.uk. Stock Unsplash images only. Add Jack Wolfskin product/brand links in a later upgrade if we list JW items. Scarpa, Forclaz 500, Lowa, Merrell, Scarpa R-Evolution, second-hand boots, Karrimor, Karrimor Hot Rock, boot size guide, Quechua and Brütting rows skipped today (Quechua MH100 boots post same day); Regatta jacket row deferred (product page could not be opened to identify the exact Regatta model). | https://hikingoutdoorhub.com/jack-wolfskin-kenya/ |
 | todo | where to buy Kilimanjaro gear in Nairobi | NBO | Hiking Gear Guides | Differ from kilimanjaro-gear-checklist (this is about buying it in Nairobi). | |
 | todo | hiking gear for beginners Nairobi budget | NBO | Hiking Gear Guides | A starter kit at different budgets using our items (prices only from our product pages). | |
 | todo | Berghaus Kenya | BRAND | Hiking Gear Guides |  | |
@@ -235,6 +235,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - zip off hiking pants in Nairobi: https://hikingoutdoorhub.com/zip-off-hiking-pants-nairobi/
 - rain poncho in Kenya: https://hikingoutdoorhub.com/rain-poncho-kenya/
 - Quechua MH100: https://hikingoutdoorhub.com/quechua-mh100-hiking-boots-kenya/
+- Jack Wolfskin: https://hikingoutdoorhub.com/jack-wolfskin-kenya/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
