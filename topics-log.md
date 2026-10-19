@@ -60,3 +60,4 @@ Format: date | category | focus keyword | slug
 2026-10-18 | Hiking Gear Guides | zip off hiking pants in Nairobi | zip-off-hiking-pants-nairobi
 2026-10-18 | Hiking Gear Guides | rain poncho in Kenya | rain-poncho-kenya
 2026-10-18 | UPGRADE | elephant hill hike | elephant-hill-hike
+2026-10-19 | Hiking Gear Guides | Quechua MH100 | quechua-mh100-hiking-boots-kenya
