@@ -65,3 +65,4 @@ Format: date | category | focus keyword | slug
 2026-10-19 | Hiking Gear Guides | Kilimanjaro gear in Nairobi | kilimanjaro-gear-nairobi
 2026-10-19 | Hiking Gear Guides | beginner hiking gear in Nairobi | beginner-hiking-gear-nairobi
 2026-10-19 | UPGRADE | hiking backpacks in Nairobi | hiking-backpacks-nairobi
+2026-10-20 | Hiking Gear Guides | Scarpa hiking boots | scarpa-hiking-boots-kenya
