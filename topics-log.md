@@ -68,3 +68,4 @@ Format: date | category | focus keyword | slug
 2026-10-20 | Hiking Gear Guides | Scarpa hiking boots | scarpa-hiking-boots-kenya
 2026-10-20 | Hiking Gear Guides | Berghaus | berghaus-kenya
 2026-10-20 | Hiking Gear Guides | gifts for hikers in Nairobi | gifts-for-hikers-in-nairobi
+2026-10-20 | Hiking Gear Guides | Osprey backpacks | osprey-backpacks-kenya
