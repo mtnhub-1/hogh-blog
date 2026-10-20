@@ -196,7 +196,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - Mt Kenya hiking guide (Mt Kenya pillar): https://hikingoutdoorhub.com/mt-kenya-hiking-guide/
 - what to pack for hiking Mt Kenya: https://hikingoutdoorhub.com/what-to-pack-for-hiking-mt-kenya/
 - Kilimanjaro gear checklist: https://hikingoutdoorhub.com/kilimanjaro-gear-checklist/
-- hiking boots for Kenyan trails: https://hikingoutdoorhub.com/hiking-boots-for-kenyan-trails/
+- hiking boots for Kenyan trails (upgraded 2026-10-20; written without a live sitemap/hike-calendar/media check as site fetch was unavailable that run: links reused product slugs (Lowa Renegade, Keen Targhee Mid WP, Quechua waterproof boot, Quechua MH100, merino socks, gaiters) and no boots category link; stock Unsplash images only): https://hikingoutdoorhub.com/hiking-boots-for-kenyan-trails/
 - layering for cold weather hikes: https://hikingoutdoorhub.com/layering-for-cold-weather-hikes/
 - oldoinyo lesatima hike: https://hikingoutdoorhub.com/oldoinyo-lesatima-hike/
 - hiking jackets: https://hikingoutdoorhub.com/hiking-jackets-essential-outdoor-gear/
