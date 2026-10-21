@@ -71,3 +71,4 @@ Format: date | category | focus keyword | slug
 2026-10-20 | Hiking Gear Guides | Osprey backpacks | osprey-backpacks-kenya
 2026-10-20 | UPGRADE | hiking boots for Kenyan trails | hiking-boots-for-kenyan-trails
 2026-10-21 | Hiking Gear Guides | Lowa hiking boots | lowa-hiking-boots-kenya
+2026-10-21 | Hiking Gear Guides | outdoor gear shop on Thika Road | outdoor-gear-shop-thika-road
