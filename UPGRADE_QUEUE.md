@@ -19,7 +19,7 @@ Scores below are from tools/rankmath_score.py with the Content AI module ON (cur
 | done 2026-10-18 (score 95) | elephant-hill-hike | elephant hill hike | 89 | Content length 5/8; Images / media 2/6 |
 | done 2026-10-19 (score 95) | hiking-backpacks-nairobi | hiking backpacks in Nairobi | 89 | Content length 5/8; Images / media 2/6 |
 | done 2026-10-20 (score 95) | hiking-boots-for-kenyan-trails | hiking boots for Kenyan trails | 89 | Content length 5/8; Images / media 2/6 |
-| todo | hiking-in-the-rain-safety-tips | hiking in the rain | 89 | Content length 5/8; Images / media 2/6 |
+| done 2026-10-22 (score 95) | hiking-in-the-rain-safety-tips | hiking in the rain | 89 | Content length 5/8; Images / media 2/6 |
 | todo | hiking-socks-nairobi | hiking socks in Nairobi | 89 | Content length 5/8; Images / media 2/6 |
 | todo | mt-kenya-gear-nairobi | Mt Kenya gear in Nairobi | 89 | Content length 5/8; Images / media 2/6 |
 | todo | mt-kenya-hiking-guide | Mt Kenya hiking | 89 | Content length 5/8; Images / media 2/6 |
