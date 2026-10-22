@@ -74,3 +74,4 @@ Format: date | category | focus keyword | slug
 2026-10-21 | Hiking Gear Guides | outdoor gear shop on Thika Road | outdoor-gear-shop-thika-road
 2026-10-21 | Hiking Gear Guides | Mammut | mammut-kenya
 2026-10-21 | Hiking Gear Guides | black diamond trekking poles | black-diamond-trekking-poles-kenya
+2026-10-22 | Hiking Gear Guides | Merrell hiking shoes | merrell-hiking-shoes-kenya
