@@ -76,3 +76,4 @@ Format: date | category | focus keyword | slug
 2026-10-21 | Hiking Gear Guides | black diamond trekking poles | black-diamond-trekking-poles-kenya
 2026-10-22 | Hiking Gear Guides | Merrell hiking shoes | merrell-hiking-shoes-kenya
 2026-10-22 | UPGRADE | hiking in the rain | hiking-in-the-rain-safety-tips
+2026-10-23 | Hiking Gear Guides | second hand hiking boots in Nairobi | second-hand-hiking-boots-nairobi
