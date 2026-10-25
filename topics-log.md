@@ -78,3 +78,4 @@ Format: date | category | focus keyword | slug
 2026-10-22 | UPGRADE | hiking in the rain | hiking-in-the-rain-safety-tips
 2026-10-23 | Hiking Gear Guides | second hand hiking boots in Nairobi | second-hand-hiking-boots-nairobi
 2026-10-23 | Hiking Gear Guides | Patagonia | patagonia-kenya
+2026-10-25 | Hiking Gear Guides | Quechua Forclaz 500 | quechua-forclaz-500-waterproof-boots
