@@ -103,13 +103,13 @@ Our products (from the product sitemap, 11 Oct 2026): hiking boots (Quechua wate
 | todo | how to spot fake hiking boots Nairobi | BRAND | Hiking Gear Guides | General signs only; never name or accuse a seller. | |
 
 ## Phase 2 – Kenya trails
-Pillar: **best hikes in Kenya** (todo; links to every trail guide; points to best-day-hikes-near-nairobi-for-beginners for day hikes)
+Pillar: **best hikes in Kenya** (done: https://hikingoutdoorhub.com/best-hikes-in-kenya/; links to every trail guide; points to best-day-hikes-near-nairobi-for-beginners for day hikes)
 
 Our own hikes were moved to the top of Phase 1 as [HIKE] rows.
 
 | Status | Focus keyword | Region | Notes | URL |
 |---|---|---|---|---|
-| todo | best hikes in Kenya (PILLAR) | All Kenya | | |
+| done | best hikes in Kenya (PILLAR) | All Kenya | Rank Math focus keyword used: "hikes in Kenya" (H1, SEO title, slug and meta description use "best hikes in Kenya"). Covers 14 trails (Karura, Ngong Hills, Hell's Gate, Ol Donyo Sabuk, Longonot, Suswa, Menengai, Elephant Hill, Table Mountain, Oldoinyo Lesatima, Ololokwe, Kakamega, Mt Elgon, Mt Kenya) with a comparison table and season table; links every done trail guide, the day-hikes pillar, Mt Kenya guide and our 4 excursion pages (no dates). Written 2026-10-26 without a live sitemap/hike-calendar/media check (site fetch unavailable that run): product slugs reused (28L backpack, Forclaz 500 High, merino socks, headlamp, rain pants). Facts from Wikipedia (Longonot, Ngong, Suswa, Menengai, Karura, Mt Kenya, Mt Elgon NP), Lonely Planet best-hikes list, k24 (Ololokwe), safari254 (Hell's Gate). Stock Unsplash images only. Taken because every remaining Phase 1 row was boots/jackets (same gear types as today's Karrimor and Under Armour posts) or deferred (Scarpa R-Evolution, delivery: site pages could not be opened). Refresh to link each new trail guide as it is published. | https://hikingoutdoorhub.com/best-hikes-in-kenya/ |
 | todo | ngong hills hike | Nairobi/Kajiado | | |
 | todo | hells gate hike | Naivasha | | |
 | todo | mt suswa hike | Narok/Kajiado | | |
@@ -253,6 +253,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - Regatta: https://hikingoutdoorhub.com/regatta-kenya/
 - Karrimor: https://hikingoutdoorhub.com/karrimor-nairobi/
 - Under Armour: https://hikingoutdoorhub.com/under-armour-hiking-kenya/
+- hikes in Kenya (Phase 2 trail pillar, "best hikes in Kenya"): https://hikingoutdoorhub.com/best-hikes-in-kenya/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules

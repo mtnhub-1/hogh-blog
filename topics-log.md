@@ -83,3 +83,4 @@ Format: date | category | focus keyword | slug
 2026-10-25 | UPGRADE | hiking socks in Nairobi | hiking-socks-nairobi
 2026-10-26 | Hiking Gear Guides | Karrimor | karrimor-nairobi
 2026-10-26 | Hiking Gear Guides | Under Armour | under-armour-hiking-kenya
+2026-10-26 | Hiking Trails Guide | hikes in Kenya | best-hikes-in-kenya
