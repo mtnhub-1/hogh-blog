@@ -110,7 +110,7 @@ Our own hikes were moved to the top of Phase 1 as [HIKE] rows.
 | Status | Focus keyword | Region | Notes | URL |
 |---|---|---|---|---|
 | done | best hikes in Kenya (PILLAR) | All Kenya | Rank Math focus keyword used: "hikes in Kenya" (H1, SEO title, slug and meta description use "best hikes in Kenya"). Covers 14 trails (Karura, Ngong Hills, Hell's Gate, Ol Donyo Sabuk, Longonot, Suswa, Menengai, Elephant Hill, Table Mountain, Oldoinyo Lesatima, Ololokwe, Kakamega, Mt Elgon, Mt Kenya) with a comparison table and season table; links every done trail guide, the day-hikes pillar, Mt Kenya guide and our 4 excursion pages (no dates). Written 2026-10-26 without a live sitemap/hike-calendar/media check (site fetch unavailable that run): product slugs reused (28L backpack, Forclaz 500 High, merino socks, headlamp, rain pants). Facts from Wikipedia (Longonot, Ngong, Suswa, Menengai, Karura, Mt Kenya, Mt Elgon NP), Lonely Planet best-hikes list, k24 (Ololokwe), safari254 (Hell's Gate). Stock Unsplash images only. Taken because every remaining Phase 1 row was boots/jackets (same gear types as today's Karrimor and Under Armour posts) or deferred (Scarpa R-Evolution, delivery: site pages could not be opened). Refresh to link each new trail guide as it is published. | https://hikingoutdoorhub.com/best-hikes-in-kenya/ |
-| todo | ngong hills hike | Nairobi/Kajiado | | |
+| done | ngong hills hike | Nairobi/Kajiado | Written 2026-10-27 without a live sitemap/hike-calendar/media check (site fetch unavailable that run): product slugs reused (Quechua MH100, merino socks, 3L camel hydration pack, 28L backpack, wide-brim sun hat); not confirmed on our hike calendar, so no guided date or excursion link (generic Hikes CTA). Facts from Wikipedia (Ngong Hills, Ngong Hills Forest Reserve), jambonairobi.co.ke (start 1,961 m, Ngong Police Station to Kona Baridi, matatu 111, 4-5 h), greatruns.com (~11 km one way), Nation and Business Daily (views, seven hills). Fee not quoted (confirm with KFS). Stock Unsplash images only. Taken from Phase 2 because remaining Phase 1 rows were boots/jackets (same gear types as yesterday's Karrimor post), Karrimor Hot Rock (same brand as yesterday) or deferred (product pages could not be opened). If we run Ngong Hills hikes, add the excursion link in a later upgrade. | https://hikingoutdoorhub.com/ngong-hills-hike/ |
 | todo | hells gate hike | Naivasha | | |
 | todo | mt suswa hike | Narok/Kajiado | | |
 | todo | karura forest hike | Nairobi | | |
@@ -254,6 +254,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - Karrimor: https://hikingoutdoorhub.com/karrimor-nairobi/
 - Under Armour: https://hikingoutdoorhub.com/under-armour-hiking-kenya/
 - hikes in Kenya (Phase 2 trail pillar, "best hikes in Kenya"): https://hikingoutdoorhub.com/best-hikes-in-kenya/
+- ngong hills hike: https://hikingoutdoorhub.com/ngong-hills-hike/
 - New posts get appended here by the daily tasks: "- <focus keyword>: https://hikingoutdoorhub.com/<slug>/"
 
 ## General rules
