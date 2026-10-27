@@ -86,3 +86,4 @@ Format: date | category | focus keyword | slug
 2026-10-26 | Hiking Trails Guide | hikes in Kenya | best-hikes-in-kenya
 2026-10-26 | UPGRADE | Mt Kenya gear in Nairobi | mt-kenya-gear-nairobi
 2026-10-27 | Hiking Trails Guide | ngong hills hike | ngong-hills-hike
+2026-10-27 | UPGRADE | Mt Kenya hiking | mt-kenya-hiking-guide
