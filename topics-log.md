@@ -88,3 +88,4 @@ Format: date | category | focus keyword | slug
 2026-10-27 | Hiking Trails Guide | ngong hills hike | ngong-hills-hike
 2026-10-27 | UPGRADE | Mt Kenya hiking | mt-kenya-hiking-guide
 2026-10-28 | Hiking Gear Guides | hiking boot sizes in Kenya | hiking-boot-sizes-kenya
+2026-10-28 | UPGRADE | rain jackets for hiking in Nairobi | rain-jackets-for-hiking-in-nairobi
