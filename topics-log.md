@@ -90,3 +90,4 @@ Format: date | category | focus keyword | slug
 2026-10-28 | Hiking Gear Guides | hiking boot sizes in Kenya | hiking-boot-sizes-kenya
 2026-10-28 | UPGRADE | rain jackets for hiking in Nairobi | rain-jackets-for-hiking-in-nairobi
 2026-10-29 | Hiking Gear Guides | North Face vs Columbia | north-face-vs-columbia-jackets
+2026-10-29 | UPGRADE | sleeping bags in Nairobi | sleeping-bags-nairobi
