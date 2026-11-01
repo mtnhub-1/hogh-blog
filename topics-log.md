@@ -93,3 +93,4 @@ Format: date | category | focus keyword | slug
 2026-10-29 | UPGRADE | sleeping bags in Nairobi | sleeping-bags-nairobi
 2026-10-30 | UPGRADE | thermal wear in Nairobi | thermal-wear-nairobi
 2026-10-31 | Hiking Gear Guides | Quechua hiking gear | quechua-hiking-gear-nairobi
+2026-11-01 | UPGRADE | thrifted outdoor gear in Nairobi | thrifted-outdoor-gear-nairobi
