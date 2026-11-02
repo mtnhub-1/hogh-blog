@@ -27,7 +27,7 @@ Scores below are from tools/rankmath_score.py with the Content AI module ON (cur
 | done 2026-10-29 (score 96) | sleeping-bags-nairobi | sleeping bags in Nairobi | 89 | Content length 5/8; Images / media 2/6 |
 | done 2026-10-30 (score 96) | thermal-wear-nairobi | thermal wear in Nairobi | 89 | Content length 5/8; Images / media 2/6 |
 | done 2026-11-01 (score 96) | thrifted-outdoor-gear-nairobi | thrifted outdoor gear in Nairobi | 89 | Content length 5/8; Images / media 2/6 |
-| todo | what-to-pack-for-hiking-mt-kenya | what to pack for hiking Mt Kenya | 89 | Content length 5/8; Images / media 2/6 |
+| done 2026-11-02 (score 96) | what-to-pack-for-hiking-mt-kenya | what to pack for hiking Mt Kenya | 89 | Content length 5/8; Images / media 2/6 |
 | todo | what-to-wear-hiking-in-kenya | what to wear hiking in Kenya | 89 | Content length 5/8; Images / media 2/6 |
 | todo | hiking-for-beginners-in-kenya | hiking for beginners in kenya | 91 | Images / media 2/6 |
 | todo | mt-longonot-hike | mt longonot hike | 91 | Images / media 2/6 |
