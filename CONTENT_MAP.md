@@ -204,7 +204,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - waterproof rain pants (upgraded 2026-10-14): https://hikingoutdoorhub.com/waterproof-rain-pants-for-hiking-guide/
 - hiking in the rain safety tips (upgraded 2026-10-22, focus keyword "hiking in the rain"; written without a live sitemap/media check as site fetch was unavailable that run: product links reused from recent posts): https://hikingoutdoorhub.com/hiking-in-the-rain-safety-tips/
 - hiking for beginners in Kenya: https://hikingoutdoorhub.com/hiking-for-beginners-in-kenya/
-- what to wear hiking in Kenya: https://hikingoutdoorhub.com/what-to-wear-hiking-in-kenya/
+- what to wear hiking in Kenya (upgraded 2026-11-03; written without a live sitemap/media/old-post check as site fetch was unavailable that run: built from the 2026-10-07 post file; links merino socks, Thinsulate gloves, Quechua waterproof boot and leg gaiters products, rain-jackets and thermal-base-layer categories, the hiking-gear-checklist-kenya pillar and layering, quick-dry shirts, zip-off pants, boots, rain jackets, hats, beginners, Mt Kenya packing and Longonot posts; Elephant Hill height corrected to about 3,630 m; stock Unsplash images only): https://hikingoutdoorhub.com/what-to-wear-hiking-in-kenya/
 - table mountain hike: https://hikingoutdoorhub.com/table-mountain-hike-kenya/
 - ol donyo sabuk hike: https://hikingoutdoorhub.com/ol-donyo-sabuk-hike/
 - hiking gear checklist Kenya (Phase 1 product pillar): https://hikingoutdoorhub.com/hiking-gear-checklist-kenya/

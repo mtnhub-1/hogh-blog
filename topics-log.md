@@ -96,3 +96,4 @@ Format: date | category | focus keyword | slug
 2026-11-01 | UPGRADE | thrifted outdoor gear in Nairobi | thrifted-outdoor-gear-nairobi
 2026-11-02 | Hiking Tips | hiking boot care in Nairobi | hiking-boot-care-nairobi
 2026-11-02 | UPGRADE | what to pack for hiking Mt Kenya | what-to-pack-for-hiking-mt-kenya
+2026-11-03 | UPGRADE | what to wear hiking in Kenya | what-to-wear-hiking-in-kenya
