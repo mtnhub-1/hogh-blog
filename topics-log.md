@@ -99,3 +99,4 @@ Format: date | category | focus keyword | slug
 2026-11-03 | UPGRADE | what to wear hiking in Kenya | what-to-wear-hiking-in-kenya
 2026-11-04 | Hiking Trails Guide | hells gate hike | hells-gate-hike
 2026-11-04 | UPGRADE | hiking for beginners in kenya | hiking-for-beginners-in-kenya
+2026-11-05 | Hiking Gear Guides | Hi-Tec hiking boots | hi-tec-hiking-boots-kenya
