@@ -102,3 +102,4 @@ Format: date | category | focus keyword | slug
 2026-11-05 | Hiking Gear Guides | Hi-Tec hiking boots | hi-tec-hiking-boots-kenya
 2026-11-05 | UPGRADE | mt longonot hike | mt-longonot-hike
 2026-11-06 | Hiking Trails Guide | mt suswa hike | mt-suswa-hike
+2026-11-06 | UPGRADE | rainy season hiking gear | rainy-season-hiking-gear

@@ -31,7 +31,7 @@ Scores below are from tools/rankmath_score.py with the Content AI module ON (cur
 | done 2026-11-03 (score 96) | what-to-wear-hiking-in-kenya | what to wear hiking in Kenya | 89 | Content length 5/8; Images / media 2/6 |
 | done 2026-11-04 (score 96) | hiking-for-beginners-in-kenya | hiking for beginners in kenya | 91 | Images / media 2/6 |
 | done 2026-11-05 (score 96) | mt-longonot-hike | mt longonot hike | 91 | Images / media 2/6 |
-| todo | rainy-season-hiking-gear | rainy season hiking gear | 91 | Images / media 2/6 |
+| done 2026-11-06 (score 96) | rainy-season-hiking-gear | rainy season hiking gear | 91 | Images / media 2/6 |
 | todo | layering-for-cold-weather-hikes | layering for cold weather hikes | not yet scored | Old post never refreshed: full rewrite to TEMPLATE.md. If it is a single-product post, broaden into a genuinely useful guide around this item (what it is, who it suits, how to choose/size/care, alternatives in our shop) so the length is real, not padded. Category Hiking Tips. |
 | todo | kilimanjaro-gear-checklist | Kilimanjaro gear checklist | not yet scored | Old post never refreshed: full rewrite to TEMPLATE.md. If it is a single-product post, broaden into a genuinely useful guide around this item (what it is, who it suits, how to choose/size/care, alternatives in our shop) so the length is real, not padded. Category Hiking Gear Guides. |
 | todo | lowa-renegade-evo-gtx-mid | Lowa Renegade GTX Mid | not yet scored | Old post never refreshed: full rewrite to TEMPLATE.md. If it is a single-product post, broaden into a genuinely useful guide around this item (what it is, who it suits, how to choose/size/care, alternatives in our shop) so the length is real, not padded. Category Hiking Gear Guides. |
