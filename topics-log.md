@@ -104,3 +104,4 @@ Format: date | category | focus keyword | slug
 2026-11-06 | Hiking Trails Guide | mt suswa hike | mt-suswa-hike
 2026-11-06 | UPGRADE | rainy season hiking gear | rainy-season-hiking-gear
 2026-11-07 | Hiking Gear Guides | Salomon vs Merrell | salomon-vs-merrell-hiking-shoes
+2026-11-10 | Hiking Gear Guides | Lowa vs Scarpa | lowa-vs-scarpa-boots
