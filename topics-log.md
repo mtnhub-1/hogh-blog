@@ -106,3 +106,4 @@ Format: date | category | focus keyword | slug
 2026-11-07 | Hiking Gear Guides | Salomon vs Merrell | salomon-vs-merrell-hiking-shoes
 2026-11-10 | Hiking Gear Guides | Lowa vs Scarpa | lowa-vs-scarpa-boots
 2026-11-10 | UPGRADE | layering for cold weather hikes | layering-for-cold-weather-hikes
+2026-11-11 | Hiking Trails Guide | karura forest hike | karura-forest-hike
