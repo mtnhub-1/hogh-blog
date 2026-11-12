@@ -109,3 +109,4 @@ Format: date | category | focus keyword | slug
 2026-11-11 | Hiking Trails Guide | karura forest hike | karura-forest-hike
 2026-11-11 | UPGRADE | Kilimanjaro gear checklist | kilimanjaro-gear-checklist
 2026-11-12 | Hiking Gear Guides | fake hiking boots | how-to-spot-fake-hiking-boots
+2026-11-12 | UPGRADE | Lowa Renegade Evo GTX Mid | lowa-renegade-evo-gtx-mid

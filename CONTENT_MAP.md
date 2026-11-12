@@ -213,7 +213,8 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - headlamps in Nairobi: https://hikingoutdoorhub.com/headlamps-nairobi/
 - trekking poles in Nairobi: https://hikingoutdoorhub.com/trekking-poles-nairobi/
 - The North Face in Nairobi: https://hikingoutdoorhub.com/the-north-face-nairobi/
-- Older product posts (being upgraded): lowa-renegade-evo-gtx-mid, fleece-lined-summit-pants, 15c-mummy-shape-down-sleeping-bag, coleman-c300-performance-screw-on-gas-can, the-tactical-winter-trapper-hat, saphirose-lightweight-kids-rain-poncho
+- Lowa Renegade Evo GTX Mid (model guide, upgraded 2026-11-12, focus keyword "Lowa Renegade Evo GTX Mid"): https://hikingoutdoorhub.com/lowa-renegade-evo-gtx-mid/
+- Older product posts (being upgraded): fleece-lined-summit-pants, 15c-mummy-shape-down-sleeping-bag, coleman-c300-performance-screw-on-gas-can, the-tactical-winter-trapper-hat, saphirose-lightweight-kids-rain-poncho
 - hiking boot brands (brand pillar): https://hikingoutdoorhub.com/best-hiking-boot-brands-kenya/
 - hydration packs in Nairobi: https://hikingoutdoorhub.com/hydration-packs-nairobi/
 - camping gas in Nairobi: https://hikingoutdoorhub.com/camping-gas-nairobi/
