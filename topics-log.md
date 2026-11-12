@@ -108,3 +108,4 @@ Format: date | category | focus keyword | slug
 2026-11-10 | UPGRADE | layering for cold weather hikes | layering-for-cold-weather-hikes
 2026-11-11 | Hiking Trails Guide | karura forest hike | karura-forest-hike
 2026-11-11 | UPGRADE | Kilimanjaro gear checklist | kilimanjaro-gear-checklist
+2026-11-12 | Hiking Gear Guides | fake hiking boots | how-to-spot-fake-hiking-boots
