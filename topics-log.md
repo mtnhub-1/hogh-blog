@@ -111,3 +111,4 @@ Format: date | category | focus keyword | slug
 2026-11-12 | Hiking Gear Guides | fake hiking boots | how-to-spot-fake-hiking-boots
 2026-11-12 | UPGRADE | Lowa Renegade Evo GTX Mid | lowa-renegade-evo-gtx-mid
 2026-11-13 | Hiking Trails Guide | sleeping warrior hike | sleeping-warrior-hike
+2026-11-13 | UPGRADE | fleece lined summit pants | fleece-lined-summit-pants
