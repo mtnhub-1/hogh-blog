@@ -113,3 +113,4 @@ Format: date | category | focus keyword | slug
 2026-11-13 | Hiking Trails Guide | sleeping warrior hike | sleeping-warrior-hike
 2026-11-13 | UPGRADE | fleece lined summit pants | fleece-lined-summit-pants
 2026-11-14 | Hiking Trails Guide | lukenya hills hike | lukenya-hills-hike
+2026-11-14 | UPGRADE | down sleeping bag | 15c-mummy-shape-down-sleeping-bag

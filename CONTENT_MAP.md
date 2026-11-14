@@ -215,6 +215,7 @@ When all phases have no `todo` rows, add 5-10 new rows to Phase 1 (new products 
 - trekking poles in Nairobi: https://hikingoutdoorhub.com/trekking-poles-nairobi/
 - The North Face in Nairobi: https://hikingoutdoorhub.com/the-north-face-nairobi/
 - Lowa Renegade Evo GTX Mid (model guide, upgraded 2026-11-12, focus keyword "Lowa Renegade Evo GTX Mid"): https://hikingoutdoorhub.com/lowa-renegade-evo-gtx-mid/
+- down sleeping bag (upgraded 2026-11-14; rebuilt from a single-product post into a guide: how down insulates, fill power, ISO ratings with a camp-altitude table, mummy vs rectangular fit, keeping down dry in the rains, pre-owned checks table, sleep-system worked example for Shipton's, care and storage; written without a live site fetch; links the -15C mummy bag, merino socks, balaclava and headlamp products, thermal category, sleeping bags, thrifted gear, Mt Kenya packing, Kilimanjaro checklist, gear checklist pillar and camping gear posts): https://hikingoutdoorhub.com/15c-mummy-shape-down-sleeping-bag/
 - Older product posts (being upgraded): fleece-lined-summit-pants, 15c-mummy-shape-down-sleeping-bag, coleman-c300-performance-screw-on-gas-can, the-tactical-winter-trapper-hat, saphirose-lightweight-kids-rain-poncho
 - hiking boot brands (brand pillar): https://hikingoutdoorhub.com/best-hiking-boot-brands-kenya/
 - hydration packs in Nairobi: https://hikingoutdoorhub.com/hydration-packs-nairobi/
