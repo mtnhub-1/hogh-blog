@@ -116,3 +116,4 @@ Format: date | category | focus keyword | slug
 2026-11-14 | UPGRADE | down sleeping bag | 15c-mummy-shape-down-sleeping-bag
 2026-11-15 | Hiking Trails Guide | ngare ndare forest hike | ngare-ndare-forest-hike
 2026-11-15 | UPGRADE | Coleman C300 | coleman-c300-performance-screw-on-gas-can
+2026-11-16 | Hiking Trails Guide | menengai crater hike | menengai-crater-hike
