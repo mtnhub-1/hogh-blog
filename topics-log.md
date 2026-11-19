@@ -121,3 +121,4 @@ Format: date | category | focus keyword | slug
 2026-11-17 | Hiking Trails Guide | chyulu hills hike | chyulu-hills-hike
 2026-11-17 | UPGRADE | kids rain poncho | saphirose-lightweight-kids-rain-poncho
 2026-11-18 | Hiking Trails Guide | mt ololokwe hike | mt-ololokwe-hike
+2026-11-19 | Hiking Trails Guide | kinangop hike | kinangop-hike
