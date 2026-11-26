@@ -124,3 +124,4 @@ Format: date | category | focus keyword | slug
 2026-11-19 | Hiking Trails Guide | kinangop hike | kinangop-hike
 2026-11-24 | Hiking Trails Guide | mt elgon hike | mt-elgon-hike
 2026-11-25 | Hiking Trails Guide | cherangani hills hike | cherangani-hills-hike
+2026-11-26 | Hiking Trails Guide | kakamega forest hike | kakamega-forest-hike
